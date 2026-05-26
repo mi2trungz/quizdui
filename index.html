@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Flashcard Trắc Nghiệm</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <main class="shell">
+      <header class="hero">
+        <div class="hero-main">
+          <p class="eyebrow">Flashcard tự chấm</p>
+          <h1>Họk bài</h1>
+        </div>
+        <div class="stats" aria-live="polite">
+          <span id="totalCards">0 câu</span>
+          <span id="wrongCount">0 câu sai</span>
+        </div>
+      </header>
+
+      <section class="panel controls" aria-label="Điều khiển luyện tập">
+        <div class="control-block">
+          <label for="chapterSelect">Chương</label>
+          <select id="chapterSelect"></select>
+        </div>
+        <div class="control-block">
+          <span class="label">Phạm vi câu sai</span>
+          <div class="segmented">
+            <button id="scopeChapterBtn" class="primary" type="button">Theo chương</button>
+            <button id="scopeGlobalBtn" type="button">Toàn bộ</button>
+          </div>
+        </div>
+        <div class="control-block">
+          <span class="label">Chế độ luyện</span>
+          <div class="segmented">
+            <button id="allModeBtn" class="primary" type="button">Tất cả câu</button>
+            <button id="wrongModeBtn" type="button">Làm lại câu sai</button>
+          </div>
+        </div>
+        <div class="control-inline">
+          <label class="switch">
+            <input id="shuffleToggle" type="checkbox">
+            <span>Xáo trộn</span>
+          </label>
+          <button id="resetBtn" class="ghost" type="button">Reset tiến độ</button>
+        </div>
+      </section>
+
+      <section class="panel session-panel">
+        <div class="session-meta">
+          <span id="sessionName">Tất cả câu</span>
+          <span id="progressText">0 / 0</span>
+        </div>
+        <div class="progress-track" aria-hidden="true">
+          <div id="progressFill"></div>
+        </div>
+      </section>
+
+      <section id="card" class="panel card" aria-live="polite">
+        <div class="card-head">
+          <div>
+            <p id="cardContext" class="context"></p>
+            <h2 id="cardTitle">Đang tải dữ liệu...</h2>
+          </div>
+          <span id="cardPosition" class="position"></span>
+        </div>
+        <div id="cardBody" class="card-body"></div>
+      </section>
+
+      <section class="actions-wrap">
+        <div class="actions" aria-label="Chấm câu hiện tại">
+          <button id="showBtn" class="primary big" type="button">Show</button>
+          <button id="correctBtn" class="success big hidden" type="button">Đúng</button>
+          <button id="wrongBtn" class="danger big hidden" type="button">Sai</button>
+          <button id="nextBtn" class="primary big hidden" type="button">Tiếp</button>
+          <button id="nextWrongBtn" class="primary big hidden" type="button">Làm lại câu sai</button>
+        </div>
+      </section>
+
+      <p id="message" class="message" role="status"></p>
+    </main>
+
+    <script src="data/cards.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
