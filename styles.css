@@ -297,9 +297,42 @@ h2 {
   border-radius: 6px;
 }
 
+.quiz-table-wrap {
+  max-width: 100%;
+  overflow-x: auto;
+  margin: 10px 0 12px;
+}
+
+.quiz-table {
+  width: max-content;
+  min-width: min(100%, 640px);
+  border-collapse: collapse;
+  font-size: 0.88em;
+  line-height: 1.28;
+  font-weight: 400;
+}
+
+.quiz-table th,
+.quiz-table td {
+  border: 1px solid #d9c8a9;
+  padding: 7px 10px;
+  text-align: left;
+  vertical-align: top;
+  white-space: nowrap;
+}
+
+.quiz-table th {
+  background: #f7efdf;
+  font-weight: 800;
+}
+
 .choice-question {
   margin-bottom: 14px;
   font-weight: 700;
+}
+
+.choice-question .quiz-table {
+  font-weight: 400;
 }
 
 .choice-options {

@@ -292,6 +292,51 @@ def paragraph_to_text_and_html(paragraph, rel_map):
     return text, f"<p>{''.join(html_parts)}</p>", has_run_bold, has_red, has_highlight
 
 
+def table_to_text_and_html(table, rel_map):
+    rows_text = []
+    rows_html = []
+    has_bold = False
+    has_red = False
+    has_highlight = False
+
+    for row in table.findall("w:tr", NS):
+        cells_text = []
+        cells_html = []
+        for cell in row.findall("w:tc", NS):
+            paragraph_texts = []
+            paragraph_html = []
+            cell_bold = False
+            cell_red = False
+            cell_highlight = False
+
+            for paragraph in cell.findall("w:p", NS):
+                text, paragraph_markup, run_bold, run_red, run_highlight = paragraph_to_text_and_html(paragraph, rel_map)
+                if text:
+                    paragraph_texts.append(text)
+                inner_markup = re.sub(r"^<p>|</p>$", "", paragraph_markup)
+                if inner_markup:
+                    paragraph_html.append(inner_markup)
+                cell_bold = cell_bold or run_bold or paragraph_prop_bold(paragraph)
+                cell_red = cell_red or run_red
+                cell_highlight = cell_highlight or run_highlight
+
+            cell_text = normalize_text(" ".join(paragraph_texts))
+            cells_text.append(cell_text)
+            tag = "th" if cell_bold else "td"
+            cells_html.append(f"<{tag}>{'<br>'.join(paragraph_html) or '&nbsp;'}</{tag}>")
+            has_bold = has_bold or cell_bold
+            has_red = has_red or cell_red
+            has_highlight = has_highlight or cell_highlight
+
+        if cells_text:
+            rows_text.append(" ".join(cells_text))
+            rows_html.append(f"<tr>{''.join(cells_html)}</tr>")
+
+    text = normalize_text(" ".join(rows_text))
+    html_table = f'<div class="quiz-table-wrap"><table class="quiz-table">{"".join(rows_html)}</table></div>'
+    return text, html_table, has_bold, has_red, has_highlight
+
+
 def paragraph_records(docx_path):
     rel_map = load_relationships(docx_path)
     with zipfile.ZipFile(docx_path) as archive:
@@ -299,18 +344,31 @@ def paragraph_records(docx_path):
         root = ET.fromstring(archive.read("word/document.xml"))
 
     records = []
-    for paragraph in root.findall(".//w:p", NS):
-        text, paragraph_html, has_run_bold, has_red, has_highlight = paragraph_to_text_and_html(paragraph, rel_map)
-        if not text and "<img " not in paragraph_html:
+    body = root.find("w:body", NS)
+    if body is None:
+        return records
+
+    for block in body:
+        if block.tag == qn("w", "p"):
+            text, block_html, has_run_bold, has_red, has_highlight = paragraph_to_text_and_html(block, rel_map)
+            style = paragraph_style(block)
+            num_id, ilvl = paragraph_num(block)
+            strong = style in {"Heading1", "Heading2"} or has_run_bold or paragraph_prop_bold(block)
+        elif block.tag == qn("w", "tbl"):
+            text, block_html, has_run_bold, has_red, has_highlight = table_to_text_and_html(block, rel_map)
+            style = None
+            num_id, ilvl = None, None
+            strong = has_run_bold
+        else:
             continue
-        style = paragraph_style(paragraph)
-        num_id, ilvl = paragraph_num(paragraph)
+
+        if not text and "<img " not in block_html and "<table " not in block_html:
+            continue
         numbering = numbering_formats.get((num_id, ilvl), {})
-        strong = style in {"Heading1", "Heading2"} or has_run_bold or paragraph_prop_bold(paragraph)
         records.append(
             {
                 "text": text,
-                "html": paragraph_html,
+                "html": block_html,
                 "style": style,
                 "numId": num_id,
                 "ilvl": ilvl,

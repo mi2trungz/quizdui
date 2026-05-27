@@ -236,7 +236,7 @@ function escapeHtml(value) {
 
 function renderChoiceCard(card) {
   const result = state.choiceResult?.cardId === card.id ? state.choiceResult : null;
-  const question = escapeHtml(card.question || card.text || "").replace(/\n/g, "<br>");
+  const question = card.frontHtml || escapeHtml(card.question || card.text || "").replace(/\n/g, "<br>");
   const options = Array.isArray(card.options) ? card.options : [];
   const optionHtml = options
     .map((option, index) => {
