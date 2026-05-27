@@ -1,6 +1,6 @@
 window.QUIZ_DATA = {
   "source": "d:\\hoc tap\\tai chinh quoc te\\test bank goc.docx",
-  "cardCount": 1015,
+  "cardCount": 1113,
   "cards": [
     {
       "id": "q0001",
@@ -11676,6 +11676,1863 @@ window.QUIZ_DATA = {
       "answerIndex": 0,
       "frontHtml": "<p>Which following incoterms 2010 rule does the buyer obligate to make a contract of insurance of the goods?</p>",
       "originalHtml": "<p>Which following incoterms 2010 rule does the buyer obligate to make a contract of insurance of the goods?<br>A. CIF Hai Phong port Vietnam, incoterms 2010<br>B. FOB Hai Phong port Vietnam, incoterms 2010<br>C. CFR Hai Phong port Vietnam, incoterms 2010<br>D. DAT Hai Phong port Vietnam, incoterms 2010</p>"
+    },
+    {
+      "id": "tn1_0001",
+      "index": 1016,
+      "title": "Question 197:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 197: You want to evaluate three mutual funds using the Sharpe measure for performance evaluation. The risk-free return during the sample period is 5%. The average returns, standard deviations, and betas for the three funds are given below: Average Standard deviation Beta Fund A 22% 24% 1.6 Fund B 19% 16% 1.3 Fund C 11% 12% 1 The fund with the highest Sharpe measure is",
+      "text": "Question 197: You want to evaluate three mutual funds using the Sharpe measure for performance evaluation. The risk-free return during the sample period is 5%. The average returns, standard deviations, and betas for the three funds are given below: Average Standard deviation Beta Fund A 22% 24% 1.6 Fund B 19% 16% 1.3 Fund C 11% 12% 1 The fund with the highest Sharpe measure is\nA. Fund B.\nB. Fund A.\nC. Fund C.\nD. Funds A and B (tied for highest).",
+      "options": [
+        "Fund B.",
+        "Fund A.",
+        "Fund C.",
+        "Funds A and B (tied for highest)."
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 197:<br>You want to evaluate three mutual funds using the Sharpe measure for performance evaluation. The risk-free return during the sample period is 5%. The average returns, standard deviations, and betas for the three funds are given below:</p>\n<p><span class=\"b\">Average</span></p>\n<p><span class=\"b\">Standard deviation</span></p>\n<p><span class=\"b\">Beta</span></p>\n<p>Fund A</p>\n<p>22%</p>\n<p>24%</p>\n<p>1.6</p>\n<p>Fund B</p>\n<p>19%</p>\n<p>16%</p>\n<p>1.3</p>\n<p>Fund C</p>\n<p>11%</p>\n<p>12%</p>\n<p>1</p>\n<p>The fund with the highest Sharpe measure is</p>",
+      "originalHtml": "<p>Question 197:<br>You want to evaluate three mutual funds using the Sharpe measure for performance evaluation. The risk-free return during the sample period is 5%. The average returns, standard deviations, and betas for the three funds are given below:</p>\n<p><span class=\"b\">Average</span></p>\n<p><span class=\"b\">Standard deviation</span></p>\n<p><span class=\"b\">Beta</span></p>\n<p>Fund A</p>\n<p>22%</p>\n<p>24%</p>\n<p>1.6</p>\n<p>Fund B</p>\n<p>19%</p>\n<p>16%</p>\n<p>1.3</p>\n<p>Fund C</p>\n<p>11%</p>\n<p>12%</p>\n<p>1</p>\n<p>The fund with the highest Sharpe measure is</p>\n<p>a/ Fund B. </p>\n<p>b/ Fund A. </p>\n<p>c/ Fund C. </p>\n<p>d/ Funds A and B (tied for highest).</p>"
+    },
+    {
+      "id": "tn1_0002",
+      "index": 1017,
+      "title": "Question 101:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 101: Which statistic can be used as a measurement of risk in a Markowitz efficient frontier?",
+      "text": "Question 101: Which statistic can be used as a measurement of risk in a Markowitz efficient frontier?\nA. standard deviation of returns.\nB. diversifiable risk.\nC. reinvestment risk.\nD. beta.",
+      "options": [
+        "standard deviation of returns.",
+        "diversifiable risk.",
+        "reinvestment risk.",
+        "beta."
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 101: Which statistic can be used as a measurement of risk in a Markowitz efficient frontier?</p>",
+      "originalHtml": "<p>Question 101: Which statistic can be used as a measurement of risk in a Markowitz efficient frontier?</p>\n<p>a/ standard deviation of returns. </p>\n<p>b/ diversifiable risk. </p>\n<p>c/ reinvestment risk. </p>\n<p>d/ beta.</p>"
+    },
+    {
+      "id": "tn1_0003",
+      "index": 1018,
+      "title": "Question 102:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 102: On the capital allocation line, an investor who intends to create a portfolio that is to the right of the optimal risky portfolio needs:",
+      "text": "Question 102: On the capital allocation line, an investor who intends to create a portfolio that is to the right of the optimal risky portfolio needs:\nA. Borrow some money at a risk-free rate and invest only in risky securities in the optimal risky portfolio.\nB. Borrow some money at a risk-free rate and put it into the optimal risky portfolio.\nC. Invest only in risky securities.\nD. Invest only in risky-free securities.",
+      "options": [
+        "Borrow some money at a risk-free rate and invest only in risky securities in the optimal risky portfolio.",
+        "Borrow some money at a risk-free rate and put it into the optimal risky portfolio.",
+        "Invest only in risky securities.",
+        "Invest only in risky-free securities."
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 102: On the capital allocation line, an investor who intends to create a portfolio that is to the right of the optimal risky portfolio needs:</p>",
+      "originalHtml": "<p>Question 102: On the capital allocation line, an investor who intends to create a portfolio that is to the right of the optimal risky portfolio needs:</p>\n<p>a/ Borrow some money at a risk-free rate and invest only in risky securities in the optimal risky portfolio. </p>\n<p>b/ Borrow some money at a risk-free rate and put it into the optimal risky portfolio. </p>\n<p>c/ Invest only in risky securities. </p>\n<p>d/ Invest only in risky-free securities.</p>"
+    },
+    {
+      "id": "tn1_0004",
+      "index": 1019,
+      "title": "Question 109:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 109: F-Consider the following probability distribution for stocks C and D: State Probability Return on Stock C Return on Stock D 1 0.5 9% 5% 2 0.4 12% 9% 3 0.1 18% 7% Calculate the standard deviations of stocks C and D, respectively.",
+      "text": "Question 109: F-Consider the following probability distribution for stocks C and D: State Probability Return on Stock C Return on Stock D 1 0.5 9% 5% 2 0.4 12% 9% 3 0.1 18% 7% Calculate the standard deviations of stocks C and D, respectively.\nA. 2.70%; 1.89%\nB. 2.79%; 4.52%\nC. 4.27%; 2.01%\nD. 5.93%; 9.99%",
+      "options": [
+        "2.70%; 1.89%",
+        "2.79%; 4.52%",
+        "4.27%; 2.01%",
+        "5.93%; 9.99%"
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 109:<br>F-Consider the following probability distribution for stocks C and D:</p>\n<p><span class=\"b\">State</span></p>\n<p><span class=\"b\">Probability</span></p>\n<p><span class=\"b\">Return on Stock C</span></p>\n<p><span class=\"b\">Return on Stock D</span></p>\n<p>1</p>\n<p>0.5</p>\n<p>9%</p>\n<p>5%</p>\n<p>2</p>\n<p>0.4</p>\n<p>12%</p>\n<p>9%</p>\n<p>3</p>\n<p>0.1</p>\n<p>18%</p>\n<p>7%</p>\n<p>Calculate the standard deviations of stocks C and D, respectively.</p>",
+      "originalHtml": "<p>Question 109:<br>F-Consider the following probability distribution for stocks C and D:</p>\n<p><span class=\"b\">State</span></p>\n<p><span class=\"b\">Probability</span></p>\n<p><span class=\"b\">Return on Stock C</span></p>\n<p><span class=\"b\">Return on Stock D</span></p>\n<p>1</p>\n<p>0.5</p>\n<p>9%</p>\n<p>5%</p>\n<p>2</p>\n<p>0.4</p>\n<p>12%</p>\n<p>9%</p>\n<p>3</p>\n<p>0.1</p>\n<p>18%</p>\n<p>7%</p>\n<p>Calculate the standard deviations of stocks C and D, respectively.</p>\n<p>a/ 2.70%; 1.89% </p>\n<p>b/ 2.79%; 4.52% </p>\n<p>c/ 4.27%; 2.01% </p>\n<p>d/ 5.93%; 9.99%</p>"
+    },
+    {
+      "id": "tn1_0005",
+      "index": 1020,
+      "title": "Question 110:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 110: Given that an optimal risky portfolio with expected return of 18.3% and standard deviation of 21.9% and a risk free rate of 3.5%, calculate the slope of the best feasible CAL?",
+      "text": "Question 110: Given that an optimal risky portfolio with expected return of 18.3% and standard deviation of 21.9% and a risk free rate of 3.5%, calculate the slope of the best feasible CAL?\nA. 0.79\nB. 0.52\nC. 0.68\nD. 0.59",
+      "options": [
+        "0.79",
+        "0.52",
+        "0.68",
+        "0.59"
+      ],
+      "answerKey": "c",
+      "answerIndex": 2,
+      "frontHtml": "<p>Question 110: Given that an optimal risky portfolio with expected return of 18.3% and standard deviation of 21.9% and a risk free rate of 3.5%, calculate the slope of the best feasible CAL?</p>",
+      "originalHtml": "<p>Question 110: Given that an optimal risky portfolio with expected return of 18.3% and standard deviation of 21.9% and a risk free rate of 3.5%, calculate the slope of the best feasible CAL?</p>\n<p>a/ 0.79 </p>\n<p>b/ 0.52 </p>\n<p>c/ 0.68 </p>\n<p>d/ 0.59</p>"
+    },
+    {
+      "id": "tn1_0006",
+      "index": 1021,
+      "title": "Question 107:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 107: Which of the following statements about the variance of a portfolio of two risky assets is(are) not correct? I) The higher the coefficient of correlation between securities will lead to the greater the reduction in the portfolio variance. II) The portfolio variance and the securities' coefficient of correlation have a linear relationship. III) The degree of portfolio variance reduction is determined by the degree of correlation between securities.",
+      "text": "Question 107: Which of the following statements about the variance of a portfolio of two risky assets is(are) not correct? I) The higher the coefficient of correlation between securities will lead to the greater the reduction in the portfolio variance. II) The portfolio variance and the securities' coefficient of correlation have a linear relationship. III) The degree of portfolio variance reduction is determined by the degree of correlation between securities.\nA. I and II\nB. I only\nC. III only\nD. I and III",
+      "options": [
+        "I and II",
+        "I only",
+        "III only",
+        "I and III"
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 107: Which of the following statements about the variance of a portfolio of two risky assets is(are) not correct? I) The higher the coefficient of correlation between securities will lead to the greater the reduction in the portfolio variance. II) The portfolio variance and the securities&#x27; coefficient of correlation have a linear relationship. III) The degree of portfolio variance reduction is determined by the degree of correlation between securities.</p>",
+      "originalHtml": "<p>Question 107: Which of the following statements about the variance of a portfolio of two risky assets is(are) not correct? I) The higher the coefficient of correlation between securities will lead to the greater the reduction in the portfolio variance. II) The portfolio variance and the securities&#x27; coefficient of correlation have a linear relationship. III) The degree of portfolio variance reduction is determined by the degree of correlation between securities.</p>\n<p>a) I and II </p>\n<p>b) I only </p>\n<p>c) III only </p>\n<p>d) I and III</p>"
+    },
+    {
+      "id": "tn1_0007",
+      "index": 1022,
+      "title": "Question 113:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 113: Consider the following probability distribution for stocks A and B: State Probability Return on Stock A Return on Stock B 1 0.2 8% 11% 2 0.4 14% 25% 3 0.2 20% 16% 4 0.1 18% 9% 5 0.1 10% 18% If an investor invests 45% of his/her money in A and the remaining in B, calculate his/her portfolio's expected rate of return?",
+      "text": "Question 113: Consider the following probability distribution for stocks A and B: State Probability Return on Stock A Return on Stock B 1 0.2 8% 11% 2 0.4 14% 25% 3 0.2 20% 16% 4 0.1 18% 9% 5 0.1 10% 18% If an investor invests 45% of his/her money in A and the remaining in B, calculate his/her portfolio's expected rate of return?\nA. 6.26%\nB. 17.43%\nC. 16.26%\nD. 18.24%",
+      "options": [
+        "6.26%",
+        "17.43%",
+        "16.26%",
+        "18.24%"
+      ],
+      "answerKey": "b",
+      "answerIndex": 1,
+      "frontHtml": "<p>Question 113:<br>Consider the following probability distribution for stocks A and B:</p>\n<p><span class=\"b\">State</span></p>\n<p><span class=\"b\">Probability</span></p>\n<p><span class=\"b\">Return on Stock A</span></p>\n<p><span class=\"b\">Return on Stock B</span></p>\n<p>1</p>\n<p>0.2</p>\n<p>8%</p>\n<p>11%</p>\n<p>2</p>\n<p>0.4</p>\n<p>14%</p>\n<p>25%</p>\n<p>3</p>\n<p>0.2</p>\n<p>20%</p>\n<p>16%</p>\n<p>4</p>\n<p>0.1</p>\n<p>18%</p>\n<p>9%</p>\n<p>5</p>\n<p>0.1</p>\n<p>10%</p>\n<p>18%</p>\n<p>If an investor invests 45% of his/her money in A and the remaining in B, calculate his/her portfolio&#x27;s expected rate of return?</p>",
+      "originalHtml": "<p>Question 113:<br>Consider the following probability distribution for stocks A and B:</p>\n<p><span class=\"b\">State</span></p>\n<p><span class=\"b\">Probability</span></p>\n<p><span class=\"b\">Return on Stock A</span></p>\n<p><span class=\"b\">Return on Stock B</span></p>\n<p>1</p>\n<p>0.2</p>\n<p>8%</p>\n<p>11%</p>\n<p>2</p>\n<p>0.4</p>\n<p>14%</p>\n<p>25%</p>\n<p>3</p>\n<p>0.2</p>\n<p>20%</p>\n<p>16%</p>\n<p>4</p>\n<p>0.1</p>\n<p>18%</p>\n<p>9%</p>\n<p>5</p>\n<p>0.1</p>\n<p>10%</p>\n<p>18%</p>\n<p>If an investor invests 45% of his/her money in A and the remaining in B, calculate his/her portfolio&#x27;s expected rate of return?</p>\n<p>b) 6.26% </p>\n<p>c) 17.43% </p>\n<p>d) 16.26% </p>\n<p>d) 18.24%</p>"
+    },
+    {
+      "id": "tn1_0008",
+      "index": 1023,
+      "title": "Question 106:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 106: Which of the following statements about selecting a portfolio from those that fall on the capital allocation line is(are) false? I) Less risk-averse investors will place a greater emphasis on risk-free securities and less on the optimal risky portfolio than more risk-averse investors. II) When compared to less risk-averse investors, more risk-averse investors will invest less in the optimal risky portfolio and more in the risk-free security. III) The portfolio that maximizes the investor's expected utility is chosen.",
+      "text": "Question 106: Which of the following statements about selecting a portfolio from those that fall on the capital allocation line is(are) false? I) Less risk-averse investors will place a greater emphasis on risk-free securities and less on the optimal risky portfolio than more risk-averse investors. II) When compared to less risk-averse investors, more risk-averse investors will invest less in the optimal risky portfolio and more in the risk-free security. III) The portfolio that maximizes the investor's expected utility is chosen.\nA. II only\nB. I only\nC. III only\nD. I and II",
+      "options": [
+        "II only",
+        "I only",
+        "III only",
+        "I and II"
+      ],
+      "answerKey": "b",
+      "answerIndex": 1,
+      "frontHtml": "<p>Question 106: Which of the following statements about selecting a portfolio from those that fall on the capital allocation line is(are) false? I) Less risk-averse investors will place a greater emphasis on risk-free securities and less on the optimal risky portfolio than more risk-averse investors. II) When compared to less risk-averse investors, more risk-averse investors will invest less in the optimal risky portfolio and more in the risk-free security. III) The portfolio that maximizes the investor&#x27;s expected utility is chosen.</p>",
+      "originalHtml": "<p>Question 106: Which of the following statements about selecting a portfolio from those that fall on the capital allocation line is(are) false? I) Less risk-averse investors will place a greater emphasis on risk-free securities and less on the optimal risky portfolio than more risk-averse investors. II) When compared to less risk-averse investors, more risk-averse investors will invest less in the optimal risky portfolio and more in the risk-free security. III) The portfolio that maximizes the investor&#x27;s expected utility is chosen.</p>\n<p>a) II only </p>\n<p>b) I only </p>\n<p>c) III only </p>\n<p>d) I and II</p>"
+    },
+    {
+      "id": "tn1_0009",
+      "index": 1024,
+      "title": "Question 118:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 118: What happens to the average portfolio standard deviation when the number of assets in a portfolio increases?",
+      "text": "Question 118: What happens to the average portfolio standard deviation when the number of assets in a portfolio increases?\nA. It increases at a decreasing rate.\nB. It increases at an increasing rate.\nC. It decreases at a decreasing rate.\nD. It decreases at an increasing rate.",
+      "options": [
+        "It increases at a decreasing rate.",
+        "It increases at an increasing rate.",
+        "It decreases at a decreasing rate.",
+        "It decreases at an increasing rate."
+      ],
+      "answerKey": "c",
+      "answerIndex": 2,
+      "frontHtml": "<p>Question 118: What happens to the average portfolio standard deviation when the number of assets in a portfolio increases?</p>",
+      "originalHtml": "<p>Question 118: What happens to the average portfolio standard deviation when the number of assets in a portfolio increases?</p>\n<p>a/ It increases at a decreasing rate. </p>\n<p>b/ It increases at an increasing rate. </p>\n<p>c/ It decreases at a decreasing rate. </p>\n<p>d/ It decreases at an increasing rate.</p>"
+    },
+    {
+      "id": "tn1_0010",
+      "index": 1025,
+      "title": "Question 119:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 119: Which type of risk that can be diversified away in a portfolio? I)diversifiable risk II) unique risk III) market risk IV) firm-specific risk",
+      "text": "Question 119: Which type of risk that can be diversified away in a portfolio? I)diversifiable risk II) unique risk III) market risk IV) firm-specific risk\nA. I, II, and IV\nB. I, III, and IV\nC. III and IV\nD. I, II, III, and IV",
+      "options": [
+        "I, II, and IV",
+        "I, III, and IV",
+        "III and IV",
+        "I, II, III, and IV"
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 119:<br>Which type of risk that can be diversified away in a portfolio?</p>\n<p>I)diversifiable risk II) unique risk III) market risk IV) firm-specific risk</p>",
+      "originalHtml": "<p>Question 119:<br>Which type of risk that can be diversified away in a portfolio?</p>\n<p>I)diversifiable risk II) unique risk III) market risk IV) firm-specific risk</p>\n<p>a/ I, II, and IV </p>\n<p>b/ I, III, and IV </p>\n<p>c/ III and IV </p>\n<p>d/ I, II, III, and IV</p>"
+    },
+    {
+      "id": "tn1_0011",
+      "index": 1026,
+      "title": "Question 108:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 108: Consider two perfectly negatively correlated risky securities, K and L. K has an expected rate of return of 20.3% and a standard deviation of 17.2%. L has an expected rate of return of 15.6% and a standard deviation of 18.1%. Calculate the investment proportion of K and L, respectively, in the global minimum variance portfolio",
+      "text": "Question 108: Consider two perfectly negatively correlated risky securities, K and L. K has an expected rate of return of 20.3% and a standard deviation of 17.2%. L has an expected rate of return of 15.6% and a standard deviation of 18.1%. Calculate the investment proportion of K and L, respectively, in the global minimum variance portfolio\nA. 0.51; 0.49\nB. 0.59; 0.41\nC. 0.32; 0.68\nD. 0.81; 0.19",
+      "options": [
+        "0.51; 0.49",
+        "0.59; 0.41",
+        "0.32; 0.68",
+        "0.81; 0.19"
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 108: Consider two perfectly negatively correlated risky securities, K and L. K has an expected rate of return of 20.3% and a standard deviation of 17.2%. L has an expected rate of return of 15.6% and a standard deviation of 18.1%. Calculate the investment proportion of K and L, respectively, in the global minimum variance portfolio</p>",
+      "originalHtml": "<p>Question 108: Consider two perfectly negatively correlated risky securities, K and L. K has an expected rate of return of 20.3% and a standard deviation of 17.2%. L has an expected rate of return of 15.6% and a standard deviation of 18.1%. Calculate the investment proportion of K and L, respectively, in the global minimum variance portfolio</p>\n<p>a/ 0.51; 0.49 </p>\n<p>b/ 0.59; 0.41 </p>\n<p>c/ 0.32; 0.68 </p>\n<p>d/ 0.81; 0.19</p>"
+    },
+    {
+      "id": "tn1_0012",
+      "index": 1027,
+      "title": "Question 111:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 111: Given an optimal risky portfolio with expected return of 19% and standard deviation of 13.2% and the slope of the best feasible CAL is 0.985. Calculate the risk-free rate?",
+      "text": "Question 111: Given an optimal risky portfolio with expected return of 19% and standard deviation of 13.2% and the slope of the best feasible CAL is 0.985. Calculate the risk-free rate?\nA. 0.087\nB. 0.06\nC. 0.035\nD. 0.041",
+      "options": [
+        "0.087",
+        "0.06",
+        "0.035",
+        "0.041"
+      ],
+      "answerKey": "b",
+      "answerIndex": 1,
+      "frontHtml": "<p>Question 111: Given an optimal risky portfolio with expected return of 19% and standard deviation of 13.2% and the slope of the best feasible CAL is 0.985. Calculate the risk-free rate?</p>",
+      "originalHtml": "<p>Question 111: Given an optimal risky portfolio with expected return of 19% and standard deviation of 13.2% and the slope of the best feasible CAL is 0.985. Calculate the risk-free rate?</p>\n<p>a/ 0.087 </p>\n<p>b/ 0.06 </p>\n<p>c/ 0.035 </p>\n<p>d/ 0.041</p>"
+    },
+    {
+      "id": "tn1_0013",
+      "index": 1028,
+      "title": "Question 112:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 112: Consider two risky securities A and B that has the correlation of -0.5. A has an expected rate of return of 11.6% and a standard deviation of 15%. B has an expected rate of return of 18.3% and a standard deviation of 16.9%. Calculate the investment proportion of A and B in the global minimum variance portfolio, respectively.",
+      "text": "Question 112: Consider two risky securities A and B that has the correlation of -0.5. A has an expected rate of return of 11.6% and a standard deviation of 15%. B has an expected rate of return of 18.3% and a standard deviation of 16.9%. Calculate the investment proportion of A and B in the global minimum variance portfolio, respectively.\nA. 0.72; 0.46\nB. 0.54; 0.46\nC. 0.32; 0.68\nD. 0.81; 0.19",
+      "options": [
+        "0.72; 0.46",
+        "0.54; 0.46",
+        "0.32; 0.68",
+        "0.81; 0.19"
+      ],
+      "answerKey": "b",
+      "answerIndex": 1,
+      "frontHtml": "<p>Question 112: Consider two risky securities A and B that has the correlation of -0.5. A has an expected rate of return of 11.6% and a standard deviation of 15%. B has an expected rate of return of 18.3% and a standard deviation of 16.9%. Calculate the investment proportion of A and B in the global minimum variance portfolio, respectively.</p>",
+      "originalHtml": "<p>Question 112: Consider two risky securities A and B that has the correlation of -0.5. A has an expected rate of return of 11.6% and a standard deviation of 15%. B has an expected rate of return of 18.3% and a standard deviation of 16.9%. Calculate the investment proportion of A and B in the global minimum variance portfolio, respectively.</p>\n<p>a/ 0.72; 0.46 </p>\n<p>b/ 0.54; 0.46 </p>\n<p>c/ 0.32; 0.68 </p>\n<p>d/ 0.81; 0.19</p>"
+    },
+    {
+      "id": "tn1_0014",
+      "index": 1029,
+      "title": "Question 115:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 115: Given an optimal risky portfolio with expected return of 15.32% and standard deviation of 18.46% and a risk free rate of 5.2%, what is the slope of the best feasible CAL?",
+      "text": "Question 115: Given an optimal risky portfolio with expected return of 15.32% and standard deviation of 18.46% and a risk free rate of 5.2%, what is the slope of the best feasible CAL?\nA. 0.45\nB. 0.42\nC. 0.55\nD. 0.63",
+      "options": [
+        "0.45",
+        "0.42",
+        "0.55",
+        "0.63"
+      ],
+      "answerKey": "c",
+      "answerIndex": 2,
+      "frontHtml": "<p>Question 115: Given an optimal risky portfolio with expected return of 15.32% and standard deviation of 18.46% and a risk free rate of 5.2%, what is the slope of the best feasible CAL?</p>",
+      "originalHtml": "<p>Question 115: Given an optimal risky portfolio with expected return of 15.32% and standard deviation of 18.46% and a risk free rate of 5.2%, what is the slope of the best feasible CAL?</p>\n<p>a) 0.45 </p>\n<p>b) 0.42 </p>\n<p>c) 0.55 </p>\n<p>d) 0.63</p>"
+    },
+    {
+      "id": "tn1_0015",
+      "index": 1030,
+      "title": "Question 116:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 116: A portfolio manager can construct a two-asset portfolio with a standard deviation of zero when",
+      "text": "Question 116: A portfolio manager can construct a two-asset portfolio with a standard deviation of zero when\nA. two assets have a perfectly negative correlation.\nB. the assets have a correlation coefficient equal to zero.\nC. the assets have a correlation coefficient greater than zero.\nD. two assets have a perfectly positive correlation.",
+      "options": [
+        "two assets have a perfectly negative correlation.",
+        "the assets have a correlation coefficient equal to zero.",
+        "the assets have a correlation coefficient greater than zero.",
+        "two assets have a perfectly positive correlation."
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 116: A portfolio manager can construct a two-asset portfolio with a standard deviation of zero when</p>",
+      "originalHtml": "<p>Question 116: A portfolio manager can construct a two-asset portfolio with a standard deviation of zero when</p>\n<p>a) two assets have a perfectly negative correlation. </p>\n<p>b) the assets have a correlation coefficient equal to zero. </p>\n<p>c) the assets have a correlation coefficient greater than zero. </p>\n<p>d) two assets have a perfectly positive correlation.</p>"
+    },
+    {
+      "id": "tn1_0016",
+      "index": 1031,
+      "title": "Question 117:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 117: When you construct a two-asset portfolio, the portfolio's standard deviation is a linear function of the asset weights when",
+      "text": "Question 117: When you construct a two-asset portfolio, the portfolio's standard deviation is a linear function of the asset weights when\nA. two assets have a perfectly positive correlation.\nB. the assets have a correlation coefficient equal to zero.\nC. the assets have a correlation coefficient lower than zero.\nD. the assets have a correlation coefficient higher than zero.",
+      "options": [
+        "two assets have a perfectly positive correlation.",
+        "the assets have a correlation coefficient equal to zero.",
+        "the assets have a correlation coefficient lower than zero.",
+        "the assets have a correlation coefficient higher than zero."
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 117: When you construct a two-asset portfolio, the portfolio&#x27;s standard deviation is a linear function of the asset weights when</p>",
+      "originalHtml": "<p>Question 117: When you construct a two-asset portfolio, the portfolio&#x27;s standard deviation is a linear function of the asset weights when</p>\n<p>a) two assets have a perfectly positive correlation. </p>\n<p>b) the assets have a correlation coefficient equal to zero. </p>\n<p>c) the assets have a correlation coefficient lower than zero. </p>\n<p>d) the assets have a correlation coefficient higher than zero.</p>"
+    },
+    {
+      "id": "tn1_0017",
+      "index": 1032,
+      "title": "Question 114:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 114: Consider the following probability distribution for stocks A and B: State Probability Return on Stock A Return on Stock B 1 0.1 9% 11% 2 0.3 14% 29% 3 0.2 25% 18% 4 0.1 18% 15% 5 0.3 12% 20% Calculate the standard deviations of stocks A and B, respectively.",
+      "text": "Question 114: Consider the following probability distribution for stocks A and B: State Probability Return on Stock A Return on Stock B 1 0.1 9% 11% 2 0.3 14% 29% 3 0.2 25% 18% 4 0.1 18% 15% 5 0.3 12% 20% Calculate the standard deviations of stocks A and B, respectively.\nA. 5.22%; 5.91%\nB. 6.37%; 4.99%\nC. 5.28%; 3.06%\nD. 6.54%; 5.11%",
+      "options": [
+        "5.22%; 5.91%",
+        "6.37%; 4.99%",
+        "5.28%; 3.06%",
+        "6.54%; 5.11%"
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 114:<br>Consider the following probability distribution for stocks A and B:</p>\n<p><span class=\"b\">State</span></p>\n<p><span class=\"b\">Probability</span></p>\n<p><span class=\"b\">Return on Stock A</span></p>\n<p><span class=\"b\">Return on Stock B</span></p>\n<p>1</p>\n<p>0.1</p>\n<p>9%</p>\n<p>11%</p>\n<p>2</p>\n<p>0.3</p>\n<p>14%</p>\n<p>29%</p>\n<p>3</p>\n<p>0.2</p>\n<p>25%</p>\n<p>18%</p>\n<p>4</p>\n<p>0.1</p>\n<p>18%</p>\n<p>15%</p>\n<p>5</p>\n<p>0.3</p>\n<p>12%</p>\n<p>20%</p>\n<p>Calculate the standard deviations of stocks A and B, respectively.</p>",
+      "originalHtml": "<p>Question 114:<br>Consider the following probability distribution for stocks A and B:</p>\n<p><span class=\"b\">State</span></p>\n<p><span class=\"b\">Probability</span></p>\n<p><span class=\"b\">Return on Stock A</span></p>\n<p><span class=\"b\">Return on Stock B</span></p>\n<p>1</p>\n<p>0.1</p>\n<p>9%</p>\n<p>11%</p>\n<p>2</p>\n<p>0.3</p>\n<p>14%</p>\n<p>29%</p>\n<p>3</p>\n<p>0.2</p>\n<p>25%</p>\n<p>18%</p>\n<p>4</p>\n<p>0.1</p>\n<p>18%</p>\n<p>15%</p>\n<p>5</p>\n<p>0.3</p>\n<p>12%</p>\n<p>20%</p>\n<p>Calculate the standard deviations of stocks A and B, respectively.</p>\n<p>a) 5.22%; 5.91% </p>\n<p>b) 6.37%; 4.99% </p>\n<p>c) 5.28%; 3.06% </p>\n<p>d) 6.54%; 5.11%</p>"
+    },
+    {
+      "id": "tn1_0018",
+      "index": 1033,
+      "title": "Question 124:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 124: Which statement concerning portfolio diversification is correct?",
+      "text": "Question 124: Which statement concerning portfolio diversification is correct?\nA. Total risk is expected to diminish at a decreasing rate as additional securities are added to a portfolio.\nB. Systematic risk can be eliminated with proper diversification.\nC. Diversification's risk-reducing effects aren't seen until at least 50-60 individual stocks have been purchased.\nD. Diversification lowers a portfolio's expected return since it lowers the portfolio's total risk.",
+      "options": [
+        "Total risk is expected to diminish at a decreasing rate as additional securities are added to a portfolio.",
+        "Systematic risk can be eliminated with proper diversification.",
+        "Diversification's risk-reducing effects aren't seen until at least 50-60 individual stocks have been purchased.",
+        "Diversification lowers a portfolio's expected return since it lowers the portfolio's total risk."
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 124: Which statement concerning portfolio diversification is correct?</p>",
+      "originalHtml": "<p>Question 124: Which statement concerning portfolio diversification is correct?</p>\n<p>a/ Total risk is expected to diminish at a decreasing rate as additional securities are added to a portfolio. </p>\n<p>b/ Systematic risk can be eliminated with proper diversification. </p>\n<p>c/ Diversification&#x27;s risk-reducing effects aren&#x27;t seen until at least 50-60 individual stocks have been purchased. </p>\n<p>d/ Diversification lowers a portfolio&#x27;s expected return since it lowers the portfolio&#x27;s total risk.</p>"
+    },
+    {
+      "id": "tn1_0019",
+      "index": 1034,
+      "title": "Question 125:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 125: Markowitz's portfolio theory is primarily concerned with:",
+      "text": "Question 125: Markowitz's portfolio theory is primarily concerned with:\nA. the effect of diversification on portfolio risk.\nB. the elimination of systematic risk.\nC. the identification of unsystematic risk.\nD. active portfolio management to enhance returns.",
+      "options": [
+        "the effect of diversification on portfolio risk.",
+        "the elimination of systematic risk.",
+        "the identification of unsystematic risk.",
+        "active portfolio management to enhance returns."
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 125: Markowitz&#x27;s portfolio theory is primarily concerned with:</p>",
+      "originalHtml": "<p>Question 125: Markowitz&#x27;s portfolio theory is primarily concerned with:</p>\n<p>a/ the effect of diversification on portfolio risk. </p>\n<p>b/ the elimination of systematic risk. </p>\n<p>c/ the identification of unsystematic risk. </p>\n<p>d/ active portfolio management to enhance returns.</p>"
+    },
+    {
+      "id": "tn1_0020",
+      "index": 1035,
+      "title": "Question 126:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 126: In the Capital Asset Pricing Model (CAPM), risk is measured by",
+      "text": "Question 126: In the Capital Asset Pricing Model (CAPM), risk is measured by\nA. beta.\nB. firm specific risk.\nC. standard deviation of returns.\nD. variance of returns.",
+      "options": [
+        "beta.",
+        "firm specific risk.",
+        "standard deviation of returns.",
+        "variance of returns."
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 126: In the Capital Asset Pricing Model (CAPM), risk is measured by</p>",
+      "originalHtml": "<p>Question 126: In the Capital Asset Pricing Model (CAPM), risk is measured by</p>\n<p>a/ beta. </p>\n<p>b/ firm specific risk. </p>\n<p>c/ standard deviation of returns. </p>\n<p>d/ variance of returns.</p>"
+    },
+    {
+      "id": "tn1_0021",
+      "index": 1036,
+      "title": "Question 122:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 122: When the correlation coefficient between two risky assets is , the global minimal variance portfolio built from them is risk-free.",
+      "text": "Question 122: When the correlation coefficient between two risky assets is , the global minimal variance portfolio built from them is risk-free.\nA. -1.0 .\nB. 0.0 .\nC. 0.5 .\nD. any negative number.",
+      "options": [
+        "-1.0 .",
+        "0.0 .",
+        "0.5 .",
+        "any negative number."
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 122: When the correlation coefficient between two risky assets is , the global minimal variance portfolio built from them is risk-free.</p>",
+      "originalHtml": "<p>Question 122: When the correlation coefficient between two risky assets is , the global minimal variance portfolio built from them is risk-free.</p>\n<p>a/ -1.0 . </p>\n<p>b/ 0.0 . </p>\n<p>c/ 0.5 . </p>\n<p>d/ any negative number.</p>"
+    },
+    {
+      "id": "tn1_0022",
+      "index": 1037,
+      "title": "Question 123:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 123: What would be the preferred correlation coefficient between two stocks in a two-stock portfolio?",
+      "text": "Question 123: What would be the preferred correlation coefficient between two stocks in a two-stock portfolio?\nA. -1.00 .\nB. +1.00 .\nC. any negative number.\nD. 0.00 .",
+      "options": [
+        "-1.00 .",
+        "+1.00 .",
+        "any negative number.",
+        "0.00 ."
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 123: What would be the preferred correlation coefficient between two stocks in a two-stock portfolio?</p>",
+      "originalHtml": "<p>Question 123: What would be the preferred correlation coefficient between two stocks in a two-stock portfolio?</p>\n<p>a/ -1.00 . </p>\n<p>b/ +1.00 . </p>\n<p>c/ any negative number. </p>\n<p>d/ 0.00 .</p>"
+    },
+    {
+      "id": "tn1_0023",
+      "index": 1038,
+      "title": "Question 124:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 124: Which statement concerning portfolio diversification is correct?",
+      "text": "Question 124: Which statement concerning portfolio diversification is correct?\nA. Total risk is expected to diminish at a decreasing rate as additional securities are added to a portfolio.\nB. Systematic risk can be eliminated with proper diversification.\nC. Diversification's risk-reducing effects aren't seen until at least 50-60 individual stocks have been purchased.\nD. Diversification lowers a portfolio's expected return since it lowers the portfolio's total risk.",
+      "options": [
+        "Total risk is expected to diminish at a decreasing rate as additional securities are added to a portfolio.",
+        "Systematic risk can be eliminated with proper diversification.",
+        "Diversification's risk-reducing effects aren't seen until at least 50-60 individual stocks have been purchased.",
+        "Diversification lowers a portfolio's expected return since it lowers the portfolio's total risk."
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 124: Which statement concerning portfolio diversification is correct?</p>",
+      "originalHtml": "<p>Question 124: Which statement concerning portfolio diversification is correct?</p>\n<p>a/ Total risk is expected to diminish at a decreasing rate as additional securities are added to a portfolio. </p>\n<p>b/ Systematic risk can be eliminated with proper diversification. </p>\n<p>c/ Diversification&#x27;s risk-reducing effects aren&#x27;t seen until at least 50-60 individual stocks have been purchased. </p>\n<p>d/ Diversification lowers a portfolio&#x27;s expected return since it lowers the portfolio&#x27;s total risk.</p>"
+    },
+    {
+      "id": "tn1_0024",
+      "index": 1039,
+      "title": "Question 125:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 125: Markowitz's portfolio theory is primarily concerned with:",
+      "text": "Question 125: Markowitz's portfolio theory is primarily concerned with:\nA. the effect of diversification on portfolio risk.\nB. the elimination of systematic risk.\nC. the identification of unsystematic risk.\nD. active portfolio management to enhance returns.",
+      "options": [
+        "the effect of diversification on portfolio risk.",
+        "the elimination of systematic risk.",
+        "the identification of unsystematic risk.",
+        "active portfolio management to enhance returns."
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 125: Markowitz&#x27;s portfolio theory is primarily concerned with:</p>",
+      "originalHtml": "<p>Question 125: Markowitz&#x27;s portfolio theory is primarily concerned with:</p>\n<p>a/ the effect of diversification on portfolio risk. </p>\n<p>b/ the elimination of systematic risk. </p>\n<p>c/ the identification of unsystematic risk. </p>\n<p>d/ active portfolio management to enhance returns.</p>"
+    },
+    {
+      "id": "tn1_0025",
+      "index": 1040,
+      "title": "Question 126:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 126: In the Capital Asset Pricing Model (CAPM), risk is measured by",
+      "text": "Question 126: In the Capital Asset Pricing Model (CAPM), risk is measured by\nA. beta.\nB. firm specific risk.\nC. standard deviation of returns.\nD. variance of returns.",
+      "options": [
+        "beta.",
+        "firm specific risk.",
+        "standard deviation of returns.",
+        "variance of returns."
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 126: In the Capital Asset Pricing Model (CAPM), risk is measured by</p>",
+      "originalHtml": "<p>Question 126: In the Capital Asset Pricing Model (CAPM), risk is measured by</p>\n<p>a/ beta. </p>\n<p>b/ firm specific risk. </p>\n<p>c/ standard deviation of returns. </p>\n<p>d/ variance of returns.</p>"
+    },
+    {
+      "id": "tn1_0026",
+      "index": 1041,
+      "title": "Question 120:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 120: Consider two perfectly negatively correlated risky securities, K and L. K has an expected rate of return of 12% and a standard deviation of 16%. L has an expected rate of return of 18% and a standard deviation of 20%. The risk-free portfolio that can be formed with the two securities will earn rate of return.",
+      "text": "Question 120: Consider two perfectly negatively correlated risky securities, K and L. K has an expected rate of return of 12% and a standard deviation of 16%. L has an expected rate of return of 18% and a standard deviation of 20%. The risk-free portfolio that can be formed with the two securities will earn rate of return.\nA. 17.05%\nB. 12.52%\nC. 15.05%\nD. 16.72%",
+      "options": [
+        "17.05%",
+        "12.52%",
+        "15.05%",
+        "16.72%"
+      ],
+      "answerKey": "c",
+      "answerIndex": 2,
+      "frontHtml": "<p>Question 120: Consider two perfectly negatively correlated risky securities, K and L. K has an expected rate of return of 12% and a standard deviation of 16%. L has an expected rate of return of 18% and a standard deviation of 20%. The risk-free portfolio that can be formed with the two securities will earn rate of return.</p>",
+      "originalHtml": "<p>Question 120: Consider two perfectly negatively correlated risky securities, K and L. K has an expected rate of return of 12% and a standard deviation of 16%. L has an expected rate of return of 18% and a standard deviation of 20%. The risk-free portfolio that can be formed with the two securities will earn rate of return.</p>\n<p>a/ 17.05% </p>\n<p>b/ 12.52% </p>\n<p>c/ 15.05% </p>\n<p>d/ 16.72%</p>"
+    },
+    {
+      "id": "tn1_0027",
+      "index": 1042,
+      "title": "Question 121:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 121: When a portfolio has two risky securities that are positively correlated but not perfectly correlated,",
+      "text": "Question 121: When a portfolio has two risky securities that are positively correlated but not perfectly correlated,\nA. the portfolio standard deviation will be less than the weighted average of the individual security standard deviations.\nB. the portfolio standard deviation will be greater than the weighted average of the individual security standard deviations.\nC. the portfolio standard deviation will be equal to the weighted average of the individual security standard deviations.\nD. the portfolio standard deviation will always be equal to the securities' covariance.",
+      "options": [
+        "the portfolio standard deviation will be less than the weighted average of the individual security standard deviations.",
+        "the portfolio standard deviation will be greater than the weighted average of the individual security standard deviations.",
+        "the portfolio standard deviation will be equal to the weighted average of the individual security standard deviations.",
+        "the portfolio standard deviation will always be equal to the securities' covariance."
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 121: When a portfolio has two risky securities that are positively correlated but not perfectly correlated,</p>",
+      "originalHtml": "<p>Question 121: When a portfolio has two risky securities that are positively correlated but not perfectly correlated,</p>\n<p>a/ the portfolio standard deviation will be less than the weighted average of the individual security standard deviations. </p>\n<p>b/ the portfolio standard deviation will be greater than the weighted average of the individual security standard deviations. </p>\n<p>c/ the portfolio standard deviation will be equal to the weighted average of the individual security standard deviations. </p>\n<p>d/ the portfolio standard deviation will always be equal to the securities&#x27; covariance.</p>"
+    },
+    {
+      "id": "tn1_0028",
+      "index": 1043,
+      "title": "Question 129:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 129: In the Capital Asset Pricing Model (CAPM), the expected rate of return on any security is equal to",
+      "text": "Question 129: In the Capital Asset Pricing Model (CAPM), the expected rate of return on any security is equal to\nA. Rf + β[E(RM) - Rf].\nB. Rf + β[E(RM)].\nC. β[E(RM) - Rf].\nD. E(RM) + Rf.",
+      "options": [
+        "Rf + β[E(RM) - Rf].",
+        "Rf + β[E(RM)].",
+        "β[E(RM) - Rf].",
+        "E(RM) + Rf."
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 129: In the Capital Asset Pricing Model (CAPM), the expected rate of return on any security is equal to</p>",
+      "originalHtml": "<p>Question 129: In the Capital Asset Pricing Model (CAPM), the expected rate of return on any security is equal to</p>\n<p>a/ Rf + β[E(RM) - Rf]. </p>\n<p>b/ Rf + β[E(RM)]. </p>\n<p>c/ β[E(RM) - Rf]. </p>\n<p>d/ E(RM) + Rf.</p>"
+    },
+    {
+      "id": "tn1_0029",
+      "index": 1044,
+      "title": "Question 130:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 130: Which statements about the security market line (SML) is correct?",
+      "text": "Question 130: Which statements about the security market line (SML) is correct?\nA. The expected return-beta relationship is represented by this line.\nB. The line that describes the projected return-beta relationship for well-diversified portfolios only.\nC. SLM is also called the capital allocation line.\nD. the line that is tangent to the efficient frontier of all risky assets.",
+      "options": [
+        "The expected return-beta relationship is represented by this line.",
+        "The line that describes the projected return-beta relationship for well-diversified portfolios only.",
+        "SLM is also called the capital allocation line.",
+        "the line that is tangent to the efficient frontier of all risky assets."
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 130: Which statements about the security market line (SML) is correct?</p>",
+      "originalHtml": "<p>Question 130: Which statements about the security market line (SML) is correct?</p>\n<p>a/ The expected return-beta relationship is represented by this line. </p>\n<p>b/ The line that describes the projected return-beta relationship for well-diversified portfolios only. </p>\n<p>c/ SLM is also called the capital allocation line. </p>\n<p>d/ the line that is tangent to the efficient frontier of all risky assets.</p>"
+    },
+    {
+      "id": "tn1_0030",
+      "index": 1045,
+      "title": "Question 199:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 199: Suppose you purchase one share of the stock A at the beginning of year 1 for $32. At the end of year 1, you receive a $3 dividend and buy one more share for $28. At the end of year 2, you receive total dividends of $4 (i.e., $2 for each share) and sell the shares for $34 each. The annually expected return on your investment is",
+      "text": "Question 199: Suppose you purchase one share of the stock A at the beginning of year 1 for $32. At the end of year 1, you receive a $3 dividend and buy one more share for $28. At the end of year 2, you receive total dividends of $4 (i.e., $2 for each share) and sell the shares for $34 each. The annually expected return on your investment is\nA. 2.72%.\nB. -1.65%.\nC. -5.03%.",
+      "options": [
+        "2.72%.",
+        "-1.65%.",
+        "-5.03%."
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 199: Suppose you purchase one share of the stock A at the beginning of year 1 for $32. At the end of year 1, you receive a $3 dividend and buy one more share for $28. At the end of year 2, you receive total dividends of $4 (i.e., $2 for each share) and sell the shares for $34 each. The annually expected return on your investment is</p>",
+      "originalHtml": "<p>Question 199: Suppose you purchase one share of the stock A at the beginning of year 1 for $32. At the end of year 1, you receive a $3 dividend and buy one more share for $28. At the end of year 2, you receive total dividends of $4 (i.e., $2 for each share) and sell the shares for $34 each. The annually expected return on your investment is</p>\n<p>b/ 2.72%. </p>\n<p>c/ -1.65%. </p>\n<p>d/ -5.03%.</p>"
+    },
+    {
+      "id": "tn1_0031",
+      "index": 1046,
+      "title": "Question 200:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 200: Suppose you purchase one share of the stock A at the beginning of year 1 for $60. At the end of year 1, you receive a $2 dividend and buy two more shares for the price of $72 each share. At the end of year 2, you receive total dividends of $9 (i.e., $3 for each share) and sell the shares for $73 each. The annually expected return on your investment is",
+      "text": "Question 200: Suppose you purchase one share of the stock A at the beginning of year 1 for $60. At the end of year 1, you receive a $2 dividend and buy two more shares for the price of $72 each share. At the end of year 2, you receive total dividends of $9 (i.e., $3 for each share) and sell the shares for $73 each. The annually expected return on your investment is\nA. 5.23%.\nB. 12.67%.\nC. 15.03%.",
+      "options": [
+        "5.23%.",
+        "12.67%.",
+        "15.03%."
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 200: Suppose you purchase one share of the stock A at the beginning of year 1 for $60. At the end of year 1, you receive a $2 dividend and buy two more shares for the price of $72 each share. At the end of year 2, you receive total dividends of $9 (i.e., $3 for each share) and sell the shares for $73 each. The annually expected return on your investment is</p>",
+      "originalHtml": "<p>Question 200: Suppose you purchase one share of the stock A at the beginning of year 1 for $60. At the end of year 1, you receive a $2 dividend and buy two more shares for the price of $72 each share. At the end of year 2, you receive total dividends of $9 (i.e., $3 for each share) and sell the shares for $73 each. The annually expected return on your investment is</p>\n<p>b/ 5.23%. </p>\n<p>c/ 12.67%. </p>\n<p>d/ 15.03%.</p>"
+    },
+    {
+      "id": "tn1_0032",
+      "index": 1047,
+      "title": "Question 167:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 167: Investors can use publicly available financial data to determine which of the following? I) The shape of the yield curve II) Expected future short-term rates (if liquidity premiums are ignored) III) The direction the Dow indexes are heading IV) The actions to be taken by the Federal Reserve",
+      "text": "Question 167: Investors can use publicly available financial data to determine which of the following? I) The shape of the yield curve II) Expected future short-term rates (if liquidity premiums are ignored) III) The direction the Dow indexes are heading IV) The actions to be taken by the Federal Reserve\nA. I and IV\nB. I and II\nC. I, II, and III\nD. I, III, and IV",
+      "options": [
+        "I and IV",
+        "I and II",
+        "I, II, and III",
+        "I, III, and IV"
+      ],
+      "answerKey": "b",
+      "answerIndex": 1,
+      "frontHtml": "<p>Question 167: Investors can use publicly available financial data to determine which of the following? I) The shape of the yield curve II) Expected future short-term rates (if liquidity premiums are ignored) III) The direction the Dow indexes are heading IV) The actions to be taken by the Federal Reserve</p>",
+      "originalHtml": "<p>Question 167: Investors can use publicly available financial data to determine which of the following? I) The shape of the yield curve II) Expected future short-term rates (if liquidity premiums are ignored) III) The direction the Dow indexes are heading IV) The actions to be taken by the Federal Reserve</p>\n<p>a/ I and IV </p>\n<p>b/ I and II </p>\n<p>c/ I, II, and III </p>\n<p>d/ I, III, and IV</p>"
+    },
+    {
+      "id": "tn1_0033",
+      "index": 1048,
+      "title": "Question 168:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 168: When yield curves are downward sloping,",
+      "text": "Question 168: When yield curves are downward sloping,\nA. Short-term interest rates are above long-term interest rates.\nB. Long-term interest rates are above short-term interest rates.\nC. Short-term interest rates are about the same as long-term interest rates.\nD. Medium-term interest rates are above both short-term and long-term interest rates",
+      "options": [
+        "Short-term interest rates are above long-term interest rates.",
+        "Long-term interest rates are above short-term interest rates.",
+        "Short-term interest rates are about the same as long-term interest rates.",
+        "Medium-term interest rates are above both short-term and long-term interest rates"
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 168: When yield curves are downward sloping,</p>",
+      "originalHtml": "<p>Question 168: When yield curves are downward sloping,</p>\n<p>a/ Short-term interest rates are above long-term interest rates. </p>\n<p>b/ Long-term interest rates are above short-term interest rates. </p>\n<p>c/ Short-term interest rates are about the same as long-term interest rates. </p>\n<p>d/ Medium-term interest rates are above both short-term and long-term interest rates</p>"
+    },
+    {
+      "id": "tn1_0034",
+      "index": 1049,
+      "title": "Question 169:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 169: When yield curves are steeply upward sloping,",
+      "text": "Question 169: When yield curves are steeply upward sloping,\nA. Long-term interest rates are above short-term interest rates.\nB. Short-term interest rates are above long-term interest rates.\nC. Short-term interest rates are about the same as long-term interest rates.\nD. Medium-term interest rates are above both short-term and long-term interest rates.",
+      "options": [
+        "Long-term interest rates are above short-term interest rates.",
+        "Short-term interest rates are above long-term interest rates.",
+        "Short-term interest rates are about the same as long-term interest rates.",
+        "Medium-term interest rates are above both short-term and long-term interest rates."
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 169: When yield curves are steeply upward sloping,</p>",
+      "originalHtml": "<p>Question 169: When yield curves are steeply upward sloping,</p>\n<p>a/ Long-term interest rates are above short-term interest rates. </p>\n<p>b/ Short-term interest rates are above long-term interest rates. </p>\n<p>c/ Short-term interest rates are about the same as long-term interest rates. </p>\n<p>d/ Medium-term interest rates are above both short-term and long-term interest rates.</p>"
+    },
+    {
+      "id": "tn1_0035",
+      "index": 1050,
+      "title": "Question 127:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 127: According to the Capital Asset Pricing Model (CAPM), the rate of return on a well-diversified portfolio is a function of",
+      "text": "Question 127: According to the Capital Asset Pricing Model (CAPM), the rate of return on a well-diversified portfolio is a function of\nA. market always risk.\nB. unsystematic risk.\nC. market risk.\nD. reinvestment risk.",
+      "options": [
+        "market always risk.",
+        "unsystematic risk.",
+        "market risk.",
+        "reinvestment risk."
+      ],
+      "answerKey": "c",
+      "answerIndex": 2,
+      "frontHtml": "<p>Question 127: According to the Capital Asset Pricing Model (CAPM), the rate of return on a well-diversified portfolio is a function of</p>",
+      "originalHtml": "<p>Question 127: According to the Capital Asset Pricing Model (CAPM), the rate of return on a well-diversified portfolio is a function of</p>\n<p>a/ market always risk. </p>\n<p>b/ unsystematic risk. </p>\n<p>c/ market risk. </p>\n<p>d/ reinvestment risk.</p>"
+    },
+    {
+      "id": "tn1_0036",
+      "index": 1051,
+      "title": "Question 128:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 128: A security's market risk, or beta, is equal to",
+      "text": "Question 128: A security's market risk, or beta, is equal to\nA. the covariance between the security's return and the market return divided by the variance of the market's returns.\nB. the covariance between the security and market returns divided by the standard deviation of the market's returns.\nC. the variance of the security's returns divided by the covariance between the security and market returns.\nD. the variance of the security's returns divided by the variance of the market's returns.",
+      "options": [
+        "the covariance between the security's return and the market return divided by the variance of the market's returns.",
+        "the covariance between the security and market returns divided by the standard deviation of the market's returns.",
+        "the variance of the security's returns divided by the covariance between the security and market returns.",
+        "the variance of the security's returns divided by the variance of the market's returns."
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 128: A security&#x27;s market risk, or beta, is equal to</p>",
+      "originalHtml": "<p>Question 128: A security&#x27;s market risk, or beta, is equal to</p>\n<p>a/ the covariance between the security&#x27;s return and the market return divided by the variance of the market&#x27;s returns. </p>\n<p>b/ the covariance between the security and market returns divided by the standard deviation of the market&#x27;s returns. </p>\n<p>c/ the variance of the security&#x27;s returns divided by the covariance between the security and market returns. </p>\n<p>d/ the variance of the security&#x27;s returns divided by the variance of the market&#x27;s returns.</p>"
+    },
+    {
+      "id": "tn1_0037",
+      "index": 1052,
+      "title": "Question 150:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 150: Holan invested in a municipal bond that promised an annual yield of 7.7 percent. The bond pays coupons twice a year. What is the effective annual yield (EAY) on this investment?",
+      "text": "Question 150: Holan invested in a municipal bond that promised an annual yield of 7.7 percent. The bond pays coupons twice a year. What is the effective annual yield (EAY) on this investment?\nA. 2.84%\nB. 7.84%\nC. 7.97%\nD. 8.20%",
+      "options": [
+        "2.84%",
+        "7.84%",
+        "7.97%",
+        "8.20%"
+      ],
+      "answerKey": "b",
+      "answerIndex": 1,
+      "frontHtml": "<p>Question 150: Holan invested in a municipal bond that promised an annual yield of 7.7 percent. The bond pays coupons twice a year. What is the effective annual yield (EAY) on this investment?</p>",
+      "originalHtml": "<p>Question 150: Holan invested in a municipal bond that promised an annual yield of 7.7 percent. The bond pays coupons twice a year. What is the effective annual yield (EAY) on this investment?</p>\n<p>a/ 2.84% </p>\n<p>b/ 7.84% </p>\n<p>c/ 7.97% </p>\n<p>d/ 8.20%</p>"
+    },
+    {
+      "id": "tn1_0038",
+      "index": 1053,
+      "title": "Question 151:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 151: You have just purchased a 10-year zero-coupon bond with a yield to maturity of 10% and a par value of $1,000. What would your rate of return at the end of the year be if you sell the bond? Assume the yield to maturity on the bond is 11% at the time you sell.",
+      "text": "Question 151: You have just purchased a 10-year zero-coupon bond with a yield to maturity of 10% and a par value of $1,000. What would your rate of return at the end of the year be if you sell the bond? Assume the yield to maturity on the bond is 11% at the time you sell.\nA. 1.4%\nB. 10.00%\nC. 20.42%\nD. 13.8%",
+      "options": [
+        "1.4%",
+        "10.00%",
+        "20.42%",
+        "13.8%"
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 151: You have just purchased a 10-year zero-coupon bond with a yield to maturity of 10% and a par value of $1,000. What would your rate of return at the end of the year be if you sell the bond? Assume the yield to maturity on the bond is 11% at the time you sell.</p>",
+      "originalHtml": "<p>Question 151: You have just purchased a 10-year zero-coupon bond with a yield to maturity of 10% and a par value of $1,000. What would your rate of return at the end of the year be if you sell the bond? Assume the yield to maturity on the bond is 11% at the time you sell.</p>\n<p>a/ 1.4% </p>\n<p>b/ 10.00% </p>\n<p>c/ 20.42% </p>\n<p>d/ 13.8%</p>"
+    },
+    {
+      "id": "tn1_0039",
+      "index": 1054,
+      "title": "Question 152:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 152: A coupon bond that pays interest of $70 annually has a par value of $1,000, matures in five years, and is selling today at a $100 discount from par value. The yield to maturity on this bond is",
+      "text": "Question 152: A coupon bond that pays interest of $70 annually has a par value of $1,000, matures in five years, and is selling today at a $100 discount from par value. The yield to maturity on this bond is\nA. 9.612%.\nB. 7.000%.\nC. 4.709%.",
+      "options": [
+        "9.612%.",
+        "7.000%.",
+        "4.709%."
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 152: A coupon bond that pays interest of $70 annually has a par value of $1,000, matures in five years, and is selling today at a $100 discount from par value. The yield to maturity on this bond is</p>",
+      "originalHtml": "<p>Question 152: A coupon bond that pays interest of $70 annually has a par value of $1,000, matures in five years, and is selling today at a $100 discount from par value. The yield to maturity on this bond is</p>\n<p>a/ 9.612%. </p>\n<p>b/ 7.000%. </p>\n<p>c/ 4.709%.</p>"
+    },
+    {
+      "id": "tn1_0040",
+      "index": 1055,
+      "title": "Question 131:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 131: Underpriced securities have",
+      "text": "Question 131: Underpriced securities have\nA. positive alphas, according to the Capital Asset Pricing Model (CAPM).\nB. positive betas, according to the Capital Asset Pricing Model (CAPM).\nC. zero alphas, according to the Capital Asset Pricing Model (CAPM).\nD. negative betas, according to the Capital Asset Pricing Model (CAPM).",
+      "options": [
+        "positive alphas, according to the Capital Asset Pricing Model (CAPM).",
+        "positive betas, according to the Capital Asset Pricing Model (CAPM).",
+        "zero alphas, according to the Capital Asset Pricing Model (CAPM).",
+        "negative betas, according to the Capital Asset Pricing Model (CAPM)."
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 131: Underpriced securities have</p>",
+      "originalHtml": "<p>Question 131: Underpriced securities have</p>\n<p>a/ positive alphas, according to the Capital Asset Pricing Model (CAPM). </p>\n<p>b/ positive betas, according to the Capital Asset Pricing Model (CAPM). </p>\n<p>c/ zero alphas, according to the Capital Asset Pricing Model (CAPM). </p>\n<p>d/ negative betas, according to the Capital Asset Pricing Model (CAPM).</p>"
+    },
+    {
+      "id": "tn1_0041",
+      "index": 1056,
+      "title": "Question 132:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 132: According to the Capital Asset Pricing Model (CAPM), which one of the following statements is not correct?",
+      "text": "Question 132: According to the Capital Asset Pricing Model (CAPM), which one of the following statements is not correct?\nA. When the risk-free rate decreases, the expected rate of return on a security increass in direct proportion.\nB. As a security's beta increases, so does its expected rate of return.\nC. The alpha of a fairly priced security is zero.\nD. All securities reside on the security market line in equilibrium.",
+      "options": [
+        "When the risk-free rate decreases, the expected rate of return on a security increass in direct proportion.",
+        "As a security's beta increases, so does its expected rate of return.",
+        "The alpha of a fairly priced security is zero.",
+        "All securities reside on the security market line in equilibrium."
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 132: According to the Capital Asset Pricing Model (CAPM), which one of the following statements is not correct?</p>",
+      "originalHtml": "<p>Question 132: According to the Capital Asset Pricing Model (CAPM), which one of the following statements is not correct?</p>\n<p>a/ When the risk-free rate decreases, the expected rate of return on a security increass in direct proportion. </p>\n<p>b/ As a security&#x27;s beta increases, so does its expected rate of return. </p>\n<p>c/ The alpha of a fairly priced security is zero. </p>\n<p>d/ All securities reside on the security market line in equilibrium.</p>"
+    },
+    {
+      "id": "tn1_0042",
+      "index": 1057,
+      "title": "Question 133:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 133: Which statement(s) about a well-diversified portfolio is(are) correct?",
+      "text": "Question 133: Which statement(s) about a well-diversified portfolio is(are) correct?\nA. systematic risk is negligible.\nB. market risk is negligible.\nC. unsystematic risk is negligible.\nD. nondiversifiable risk is negligible.",
+      "options": [
+        "systematic risk is negligible.",
+        "market risk is negligible.",
+        "unsystematic risk is negligible.",
+        "nondiversifiable risk is negligible."
+      ],
+      "answerKey": "c",
+      "answerIndex": 2,
+      "frontHtml": "<p>Question 133: Which statement(s) about a well-diversified portfolio is(are) correct?</p>",
+      "originalHtml": "<p>Question 133: Which statement(s) about a well-diversified portfolio is(are) correct?</p>\n<p>a/ systematic risk is negligible. </p>\n<p>b/ market risk is negligible. </p>\n<p>c/ unsystematic risk is negligible. </p>\n<p>d/ nondiversifiable risk is negligible.</p>"
+    },
+    {
+      "id": "tn1_0043",
+      "index": 1058,
+      "title": "Question 136:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 136: Which one of the following statements about bond price is NOT true?",
+      "text": "Question 136: Which one of the following statements about bond price is NOT true?\nA. The value, or price, of any asset is the future value of its cash flows.\nB. To compute a bond's price, one needs to calculate the present value of the bond's expected cash flows.\nC. The required rate of return, or discount rate, for a bond is the market interest rate called the bond's yield to maturity\nD. Estimate the expected future cash flows using the coupons that the bond will pay and the maturity value to be received.",
+      "options": [
+        "The value, or price, of any asset is the future value of its cash flows.",
+        "To compute a bond's price, one needs to calculate the present value of the bond's expected cash flows.",
+        "The required rate of return, or discount rate, for a bond is the market interest rate called the bond's yield to maturity",
+        "Estimate the expected future cash flows using the coupons that the bond will pay and the maturity value to be received."
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 136: Which one of the following statements about bond price is NOT true?</p>",
+      "originalHtml": "<p>Question 136: Which one of the following statements about bond price is NOT true?</p>\n<p>a/ The value, or price, of any asset is the future value of its cash flows. </p>\n<p>b/ To compute a bond&#x27;s price, one needs to calculate the present value of the bond&#x27;s expected cash flows. </p>\n<p>c/ The required rate of return, or discount rate, for a bond is the market interest rate called the bond&#x27;s yield to maturity </p>\n<p>d/ Estimate the expected future cash flows using the coupons that the bond will pay and the maturity value to be received.</p>"
+    },
+    {
+      "id": "tn1_0044",
+      "index": 1059,
+      "title": "Question 137:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 137: When expected inflation rises,",
+      "text": "Question 137: When expected inflation rises,\nA. The price of the bond falls.\nB. The demand curve shifts to the right.\nC. The supply curve shifts to the left.\nD. The interest on the bond falls.",
+      "options": [
+        "The price of the bond falls.",
+        "The demand curve shifts to the right.",
+        "The supply curve shifts to the left.",
+        "The interest on the bond falls."
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 137: When expected inflation rises,</p>",
+      "originalHtml": "<p>Question 137: When expected inflation rises,</p>\n<p>a/ The price of the bond falls. </p>\n<p>b/ The demand curve shifts to the right. </p>\n<p>c/ The supply curve shifts to the left. </p>\n<p>d/ The interest on the bond falls.</p>"
+    },
+    {
+      "id": "tn1_0045",
+      "index": 1060,
+      "title": "Question 138:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 138: If interest rates are expected to rise, the bond prices will:",
+      "text": "Question 138: If interest rates are expected to rise, the bond prices will:\nA. Fall, due to the demand for bonds decreasing.\nB. Not change until interest rates actually change.\nC. Rise, as people seek capital gains.\nD. Move in the same direction as the expected change in interest rates.",
+      "options": [
+        "Fall, due to the demand for bonds decreasing.",
+        "Not change until interest rates actually change.",
+        "Rise, as people seek capital gains.",
+        "Move in the same direction as the expected change in interest rates."
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 138: If interest rates are expected to rise, the bond prices will:</p>",
+      "originalHtml": "<p>Question 138: If interest rates are expected to rise, the bond prices will:</p>\n<p>a/ Fall, due to the demand for bonds decreasing. </p>\n<p>b/ Not change until interest rates actually change. </p>\n<p>c/ Rise, as people seek capital gains. </p>\n<p>d/ Move in the same direction as the expected change in interest rates.</p>"
+    },
+    {
+      "id": "tn1_0046",
+      "index": 1061,
+      "title": "Question 139:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 139: The three economic factors that determine the shape of the yield curve are",
+      "text": "Question 139: The three economic factors that determine the shape of the yield curve are\nA. the real rate of interest, the expected rate of inflation, and interest rate risk.\nB. the real rate of interest, the expected rate of inflation, and marketability.\nC. the nominal rate of interest, the expected rate of inflation, and interest rate risk.\nD. the real rate of interest, the nominal rate of interest, and interest rate risk.",
+      "options": [
+        "the real rate of interest, the expected rate of inflation, and interest rate risk.",
+        "the real rate of interest, the expected rate of inflation, and marketability.",
+        "the nominal rate of interest, the expected rate of inflation, and interest rate risk.",
+        "the real rate of interest, the nominal rate of interest, and interest rate risk."
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 139: The three economic factors that determine the shape of the yield curve are</p>",
+      "originalHtml": "<p>Question 139: The three economic factors that determine the shape of the yield curve are</p>\n<p>a/ the real rate of interest, the expected rate of inflation, and interest rate risk. </p>\n<p>b/ the real rate of interest, the expected rate of inflation, and marketability. </p>\n<p>c/ the nominal rate of interest, the expected rate of inflation, and interest rate risk. </p>\n<p>d/ the real rate of interest, the nominal rate of interest, and interest rate risk.</p>"
+    },
+    {
+      "id": "tn1_0047",
+      "index": 1062,
+      "title": "Question 140:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 140: Which one of the following statements is NOT true?",
+      "text": "Question 140: Which one of the following statements is NOT true?\nA. The shape of the yield curve is not constant over time.\nB. The relationship between yield and marketability is known as the term structure of interest rates.\nC. As the general level of interest rises and falls over time, the yield curve shifts up and down and has different slopes.\nD. Yield curves show graphically how market yields vary as term to maturity changes.",
+      "options": [
+        "The shape of the yield curve is not constant over time.",
+        "The relationship between yield and marketability is known as the term structure of interest rates.",
+        "As the general level of interest rises and falls over time, the yield curve shifts up and down and has different slopes.",
+        "Yield curves show graphically how market yields vary as term to maturity changes."
+      ],
+      "answerKey": "b",
+      "answerIndex": 1,
+      "frontHtml": "<p>Question 140: Which one of the following statements is NOT true?</p>",
+      "originalHtml": "<p>Question 140: Which one of the following statements is NOT true?</p>\n<p>a/ The shape of the yield curve is not constant over time. </p>\n<p>b/ The relationship between yield and marketability is known as the term structure of interest rates. </p>\n<p>c/ As the general level of interest rises and falls over time, the yield curve shifts up and down and has different slopes. </p>\n<p>d/ Yield curves show graphically how market yields vary as term to maturity changes.</p>"
+    },
+    {
+      "id": "tn1_0048",
+      "index": 1063,
+      "title": "Question 141:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 141: Once you buy a coupon bond, which of the following can change?",
+      "text": "Question 141: Once you buy a coupon bond, which of the following can change?\nA. Coupon payment.\nB. Coupon rate.\nC. Yield to maturity.\nD. Face value.",
+      "options": [
+        "Coupon payment.",
+        "Coupon rate.",
+        "Yield to maturity.",
+        "Face value."
+      ],
+      "answerKey": "c",
+      "answerIndex": 2,
+      "frontHtml": "<p>Question 141: Once you buy a coupon bond, which of the following can change?</p>",
+      "originalHtml": "<p>Question 141: Once you buy a coupon bond, which of the following can change?</p>\n<p>a/ Coupon payment. </p>\n<p>b/ Coupon rate. </p>\n<p>c/ Yield to maturity. </p>\n<p>d/ Face value.</p>"
+    },
+    {
+      "id": "tn1_0049",
+      "index": 1064,
+      "title": "Question 142:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 142: Bonds sell at a premium over the face value when YTM of bonds are",
+      "text": "Question 142: Bonds sell at a premium over the face value when YTM of bonds are\nA. equal the bond's coupon rate.\nB. smaller than the bond's coupon rate.\nC. equal to the bond's coupon rate.\nD. Market rates are irrelevant in determining a bond's price.",
+      "options": [
+        "equal the bond's coupon rate.",
+        "smaller than the bond's coupon rate.",
+        "equal to the bond's coupon rate.",
+        "Market rates are irrelevant in determining a bond's price."
+      ],
+      "answerKey": "b",
+      "answerIndex": 1,
+      "frontHtml": "<p>Question 142: Bonds sell at a premium over the face value when YTM of bonds are</p>",
+      "originalHtml": "<p>Question 142: Bonds sell at a premium over the face value when YTM of bonds are</p>\n<p>a/ equal the bond&#x27;s coupon rate. </p>\n<p>b/ smaller than the bond&#x27;s coupon rate. </p>\n<p>c/ equal to the bond&#x27;s coupon rate. </p>\n<p>d/ Market rates are irrelevant in determining a bond&#x27;s price.</p>"
+    },
+    {
+      "id": "tn1_0050",
+      "index": 1065,
+      "title": "Question 143:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 143: Which one of the following statements is NOT true?",
+      "text": "Question 143: Which one of the following statements is NOT true?\nA. As interest rates decrease, bond prices decrease.\nB. Interest rate risk is the risk that bond prices will change as interest rates change.\nC. Interest rate and bond prices are inversely related.\nD. Short-term bonds are less volatile than long-term bonds of similar risk.",
+      "options": [
+        "As interest rates decrease, bond prices decrease.",
+        "Interest rate risk is the risk that bond prices will change as interest rates change.",
+        "Interest rate and bond prices are inversely related.",
+        "Short-term bonds are less volatile than long-term bonds of similar risk."
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 143: Which one of the following statements is NOT true?</p>",
+      "originalHtml": "<p>Question 143: Which one of the following statements is NOT true?</p>\n<p>a/ As interest rates decrease, bond prices decrease. </p>\n<p>b/ Interest rate risk is the risk that bond prices will change as interest rates change. </p>\n<p>c/ Interest rate and bond prices are inversely related. </p>\n<p>d/ Short-term bonds are less volatile than long-term bonds of similar risk.</p>"
+    },
+    {
+      "id": "tn1_0051",
+      "index": 1066,
+      "title": "Question 144:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 144: One of these factors that would not have caused the supply of bonds to decrease is",
+      "text": "Question 144: One of these factors that would not have caused the supply of bonds to decrease is\nA. A decrease in expected returns.\nB. A decrease in government budget deficits.\nC. A decrease in expected inflation.\nD. A decrease in expected profitability of investment opportunities.",
+      "options": [
+        "A decrease in expected returns.",
+        "A decrease in government budget deficits.",
+        "A decrease in expected inflation.",
+        "A decrease in expected profitability of investment opportunities."
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 144: One of these factors that would not have caused the supply of bonds to decrease is</p>",
+      "originalHtml": "<p>Question 144: One of these factors that would not have caused the supply of bonds to decrease is</p>\n<p>a/ A decrease in expected returns. </p>\n<p>b/ A decrease in government budget deficits. </p>\n<p>c/ A decrease in expected inflation. </p>\n<p>d/ A decrease in expected profitability of investment opportunities.</p>"
+    },
+    {
+      "id": "tn1_0052",
+      "index": 1067,
+      "title": "Question 145:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 145: A Treasury bond due in one year has a yield of 4.7%; a Treasury bond due in 6 years has a yield of 5.2%. A bond issued by Acc Company due in 6 years has a yield of 6.6%; a bond issued by Bcc corp, due in one year has a yield of 5.6%. The default risk premiums on the bonds issued by Bcc and Acc, respectively, are",
+      "text": "Question 145: A Treasury bond due in one year has a yield of 4.7%; a Treasury bond due in 6 years has a yield of 5.2%. A bond issued by Acc Company due in 6 years has a yield of 6.6%; a bond issued by Bcc corp, due in one year has a yield of 5.6%. The default risk premiums on the bonds issued by Bcc and Acc, respectively, are\nA. 0.9% and 3.4%.\nB. 0.9% and 1.4%.\nC. 1.0% and 0.5%.\nD. 1.0% and 1.4%.",
+      "options": [
+        "0.9% and 3.4%.",
+        "0.9% and 1.4%.",
+        "1.0% and 0.5%.",
+        "1.0% and 1.4%."
+      ],
+      "answerKey": "b",
+      "answerIndex": 1,
+      "frontHtml": "<p>Question 145: A Treasury bond due in one year has a yield of 4.7%; a Treasury bond due in 6 years has a yield of 5.2%. A bond issued by Acc Company due in 6 years has a yield of 6.6%; a bond issued by Bcc corp, due in one year has a yield of 5.6%. The default risk premiums on the bonds issued by Bcc and Acc, respectively, are</p>",
+      "originalHtml": "<p>Question 145: A Treasury bond due in one year has a yield of 4.7%; a Treasury bond due in 6 years has a yield of 5.2%. A bond issued by Acc Company due in 6 years has a yield of 6.6%; a bond issued by Bcc corp, due in one year has a yield of 5.6%. The default risk premiums on the bonds issued by Bcc and Acc, respectively, are</p>\n<p>a/ 0.9% and 3.4%. </p>\n<p>b/ 0.9% and 1.4%. </p>\n<p>c/ 1.0% and 0.5%. </p>\n<p>d/ 1.0% and 1.4%.</p>"
+    },
+    {
+      "id": "tn1_0053",
+      "index": 1068,
+      "title": "Question 146:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 146: Which of the following will not cause an increase in the demand for bonds?",
+      "text": "Question 146: Which of the following will not cause an increase in the demand for bonds?\nA. An increase in government deficits.\nB. An increase in the liquidity of bonds.\nC. An decrease in riskiness of bonds.\nD. An decrease in the expected rate of inflation.",
+      "options": [
+        "An increase in government deficits.",
+        "An increase in the liquidity of bonds.",
+        "An decrease in riskiness of bonds.",
+        "An decrease in the expected rate of inflation."
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 146: Which of the following will not cause an increase in the demand for bonds?</p>",
+      "originalHtml": "<p>Question 146: Which of the following will not cause an increase in the demand for bonds?</p>\n<p>a/ An increase in government deficits. </p>\n<p>b/ An increase in the liquidity of bonds. </p>\n<p>c/ An decrease in riskiness of bonds. </p>\n<p>d/ An decrease in the expected rate of inflation.</p>"
+    },
+    {
+      "id": "tn1_0054",
+      "index": 1069,
+      "title": "Question 182:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 182: Which bond that has the longest duration?",
+      "text": "Question 182: Which bond that has the longest duration?\nA. 10 -year maturity with an 0% coupon\nB. 10 -year maturity with a 11% coupon\nC. 10 -year maturity with a 8% coupon\nD. 8 -year maturity with a 10% coupon",
+      "options": [
+        "10 -year maturity with an 0% coupon",
+        "10 -year maturity with a 11% coupon",
+        "10 -year maturity with a 8% coupon",
+        "8 -year maturity with a 10% coupon"
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 182: Which bond that has the longest duration?</p>",
+      "originalHtml": "<p>Question 182: Which bond that has the longest duration?</p>\n<p>a/ 10 -year maturity with an 0% coupon </p>\n<p>b/ 10 -year maturity with a 11% coupon </p>\n<p>c/ 10 -year maturity with a 8% coupon </p>\n<p>d/ 8 -year maturity with a 10% coupon</p>"
+    },
+    {
+      "id": "tn1_0055",
+      "index": 1070,
+      "title": "Question 183:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 183: Which one of the following bonds has the smallest price volatility (Given that other factors are constant)?",
+      "text": "Question 183: Which one of the following bonds has the smallest price volatility (Given that other factors are constant)?\nA. 10 year, 13% coupon bond\nB. 10 -year, 0% coupon bond\nC. 10 -year, 11% coupon bond\nD. 10 -year, 9% coupon bond",
+      "options": [
+        "10 year, 13% coupon bond",
+        "10 -year, 0% coupon bond",
+        "10 -year, 11% coupon bond",
+        "10 -year, 9% coupon bond"
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 183: Which one of the following bonds has the smallest price volatility (Given that other factors are constant)?</p>",
+      "originalHtml": "<p>Question 183: Which one of the following bonds has the smallest price volatility (Given that other factors are constant)?</p>\n<p>a/ 10 year, 13% coupon bond </p>\n<p>b/ 10 -year, 0% coupon bond </p>\n<p>c/ 10 -year, 11% coupon bond </p>\n<p>d/ 10 -year, 9% coupon bond</p>"
+    },
+    {
+      "id": "tn1_0056",
+      "index": 1071,
+      "title": "Question 184:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 184: The Macaulay duration for the bond is 11 years with 10% yield. What is the bond's modified duration?",
+      "text": "Question 184: The Macaulay duration for the bond is 11 years with 10% yield. What is the bond's modified duration?\nA. 12.85\nB. 10.00\nC. 110.0\nD. 6.50",
+      "options": [
+        "12.85",
+        "10.00",
+        "110.0",
+        "6.50"
+      ],
+      "answerKey": "b",
+      "answerIndex": 1,
+      "frontHtml": "<p>Question 184: The Macaulay duration for the bond is 11 years with 10% yield. What is the bond&#x27;s modified duration?</p>",
+      "originalHtml": "<p>Question 184: The Macaulay duration for the bond is 11 years with 10% yield. What is the bond&#x27;s modified duration?</p>\n<p>a/ 12.85 </p>\n<p>b/ 10.00 </p>\n<p>c/ 110.0 </p>\n<p>d/ 6.50</p>"
+    },
+    {
+      "id": "tn1_0057",
+      "index": 1072,
+      "title": "Question 147:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 147: A coupon bond that pays interest annually has a par value of $1,000, matures in six years, and has a yield to maturity of 11%. The intrinsic value of the bond today will be coupon rate is 8%.",
+      "text": "Question 147: A coupon bond that pays interest annually has a par value of $1,000, matures in six years, and has a yield to maturity of 11%. The intrinsic value of the bond today will be coupon rate is 8%.\nA. $873.08\nB. $870.72\nC. $1,245.87\nD. $1,248.85",
+      "options": [
+        "$873.08",
+        "$870.72",
+        "$1,245.87",
+        "$1,248.85"
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 147: A coupon bond that pays interest annually has a par value of $1,000, matures in six years, and has a yield to maturity of 11%. The intrinsic value of the bond today will be coupon rate is 8%.</p>",
+      "originalHtml": "<p>Question 147: A coupon bond that pays interest annually has a par value of $1,000, matures in six years, and has a yield to maturity of 11%. The intrinsic value of the bond today will be coupon rate is 8%.</p>\n<p>a/ $873.08 </p>\n<p>b/ $870.72 </p>\n<p>c/ $1,245.87 </p>\n<p>d/ $1,248.85</p>"
+    },
+    {
+      "id": "tn1_0058",
+      "index": 1073,
+      "title": "Question 148:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 148: Ann purchased an annual interest coupon bond one year ago that now has five years remaining until maturity. The coupon rate of interest was 9% and par value was $1,000. At the time Ann purchased the bond, the yield to maturity was 7.5%. The amount that Tom paid for this bond one year ago was",
+      "text": "Question 148: Ann purchased an annual interest coupon bond one year ago that now has five years remaining until maturity. The coupon rate of interest was 9% and par value was $1,000. At the time Ann purchased the bond, the yield to maturity was 7.5%. The amount that Tom paid for this bond one year ago was\nA. $1,000.\nB. $1,070.41.\nC. $941.66.\nD. $951.40.",
+      "options": [
+        "$1,000.",
+        "$1,070.41.",
+        "$941.66.",
+        "$951.40."
+      ],
+      "answerKey": "b",
+      "answerIndex": 1,
+      "frontHtml": "<p>Question 148: Ann purchased an annual interest coupon bond one year ago that now has five years remaining until maturity. The coupon rate of interest was 9% and par value was $1,000. At the time Ann purchased the bond, the yield to maturity was 7.5%. The amount that Tom paid for this bond one year ago was</p>",
+      "originalHtml": "<p>Question 148: Ann purchased an annual interest coupon bond one year ago that now has five years remaining until maturity. The coupon rate of interest was 9% and par value was $1,000. At the time Ann purchased the bond, the yield to maturity was 7.5%. The amount that Tom paid for this bond one year ago was</p>\n<p>a/ $1,000. </p>\n<p>b/ $1,070.41. </p>\n<p>c/ $941.66. </p>\n<p>d/ $951.40.</p>"
+    },
+    {
+      "id": "tn1_0059",
+      "index": 1074,
+      "title": "Question 149:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 149: It is for the bonds when time to maturity matches the holding period.",
+      "text": "Question 149: It is for the bonds when time to maturity matches the holding period.\nA. small interest-rate risk\nB. no interest-rate risk\nC. rate-of-return risk\nD. yield-to-maturity risk",
+      "options": [
+        "small interest-rate risk",
+        "no interest-rate risk",
+        "rate-of-return risk",
+        "yield-to-maturity risk"
+      ],
+      "answerKey": "b",
+      "answerIndex": 1,
+      "frontHtml": "<p>Question 149: It is for the bonds when time to maturity matches the holding period.</p>",
+      "originalHtml": "<p>Question 149: It is for the bonds when time to maturity matches the holding period.</p>\n<p>a/ small interest-rate risk </p>\n<p>b/ no interest-rate risk </p>\n<p>c/ rate-of-return risk </p>\n<p>d/ yield-to-maturity risk</p>"
+    },
+    {
+      "id": "tn1_0060",
+      "index": 1075,
+      "title": "Question 153:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 153: Which of the following statements is true about convertible bonds?",
+      "text": "Question 153: Which of the following statements is true about convertible bonds?\nA. Firms that issue convertible bonds can do so at a lower interest rate.\nB. The most significant disadvantage to a corporation of issuing convertible bonds is that they increase the cash that the firm must use to make interest payments.\nC. The typical conversion ratio is set so that the firm's stock price must appreciate 5% or less before it is profitable for the holder to convert the bond to stock.\nD. The typical issue of convertible bonds allows the holder of the bond to convert it to preferred stock.",
+      "options": [
+        "Firms that issue convertible bonds can do so at a lower interest rate.",
+        "The most significant disadvantage to a corporation of issuing convertible bonds is that they increase the cash that the firm must use to make interest payments.",
+        "The typical conversion ratio is set so that the firm's stock price must appreciate 5% or less before it is profitable for the holder to convert the bond to stock.",
+        "The typical issue of convertible bonds allows the holder of the bond to convert it to preferred stock."
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 153: Which of the following statements is true about convertible bonds?</p>",
+      "originalHtml": "<p>Question 153: Which of the following statements is true about convertible bonds?</p>\n<p>a/ Firms that issue convertible bonds can do so at a lower interest rate. </p>\n<p>b/ The most significant disadvantage to a corporation of issuing convertible bonds is that they increase the cash that the firm must use to make interest payments. </p>\n<p>c/ The typical conversion ratio is set so that the firm&#x27;s stock price must appreciate 5% or less before it is profitable for the holder to convert the bond to stock. </p>\n<p>d/ The typical issue of convertible bonds allows the holder of the bond to convert it to preferred stock.</p>"
+    },
+    {
+      "id": "tn1_0061",
+      "index": 1076,
+      "title": "Question 154:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 154: You purchased an annual interest coupon bond one year ago that had six years remaining to maturity at that time. The coupon interest rate was 10% and the par value was $1,000. At the time you purchased the bond, the yield to maturity was 7%. If you sold the bond after receiving the first interest payment and the yield to maturity continued to be 7%, your annual total rate of return on holding the bond for that year would have been",
+      "text": "Question 154: You purchased an annual interest coupon bond one year ago that had six years remaining to maturity at that time. The coupon interest rate was 10% and the par value was $1,000. At the time you purchased the bond, the yield to maturity was 7%. If you sold the bond after receiving the first interest payment and the yield to maturity continued to be 7%, your annual total rate of return on holding the bond for that year would have been\nA. 7.87%.\nB. 10.70%.\nC. 1.75%.\nD. 7%.",
+      "options": [
+        "7.87%.",
+        "10.70%.",
+        "1.75%.",
+        "7%."
+      ],
+      "answerKey": "d",
+      "answerIndex": 3,
+      "frontHtml": "<p>Question 154: You purchased an annual interest coupon bond one year ago that had six years remaining to maturity at that time. The coupon interest rate was 10% and the par value was $1,000. At the time you purchased the bond, the yield to maturity was 7%. If you sold the bond after receiving the first interest payment and the yield to maturity continued to be 7%, your annual total rate of return on holding the bond for that year would have been</p>",
+      "originalHtml": "<p>Question 154: You purchased an annual interest coupon bond one year ago that had six years remaining to maturity at that time. The coupon interest rate was 10% and the par value was $1,000. At the time you purchased the bond, the yield to maturity was 7%. If you sold the bond after receiving the first interest payment and the yield to maturity continued to be 7%, your annual total rate of return on holding the bond for that year would have been</p>\n<p>a/ 7.87%. </p>\n<p>b/ 10.70%. </p>\n<p>c/ 1.75%. </p>\n<p>d/ 7%.</p>"
+    },
+    {
+      "id": "tn1_0062",
+      "index": 1077,
+      "title": "Question 155:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 155: You purchased an annual interest coupon bond one year ago with five years remaining to maturity at the time of purchase. The coupon interest rate is 10% and par value is $1,000. At the time you purchased the bond, the yield to maturity was 9%. If you sold the bond after receiving the first interest payment and the bond's yield to maturity had changed to 8%, your annual total rate of return on holding the bond for that year would have been",
+      "text": "Question 155: You purchased an annual interest coupon bond one year ago with five years remaining to maturity at the time of purchase. The coupon interest rate is 10% and par value is $1,000. At the time you purchased the bond, the yield to maturity was 9%. If you sold the bond after receiving the first interest payment and the bond's yield to maturity had changed to 8%, your annual total rate of return on holding the bond for that year would have been\nA. 2.26%.\nB. 11.94%.\nC. 11.54%.\nD. 12.26%.",
+      "options": [
+        "2.26%.",
+        "11.94%.",
+        "11.54%.",
+        "12.26%."
+      ],
+      "answerKey": "d",
+      "answerIndex": 3,
+      "frontHtml": "<p>Question 155: You purchased an annual interest coupon bond one year ago with five years remaining to maturity at the time of purchase. The coupon interest rate is 10% and par value is $1,000. At the time you purchased the bond, the yield to maturity was 9%. If you sold the bond after receiving the first interest payment and the bond&#x27;s yield to maturity had changed to 8%, your annual total rate of return on holding the bond for that year would have been</p>",
+      "originalHtml": "<p>Question 155: You purchased an annual interest coupon bond one year ago with five years remaining to maturity at the time of purchase. The coupon interest rate is 10% and par value is $1,000. At the time you purchased the bond, the yield to maturity was 9%. If you sold the bond after receiving the first interest payment and the bond&#x27;s yield to maturity had changed to 8%, your annual total rate of return on holding the bond for that year would have been</p>\n<p>a/ 2.26%. </p>\n<p>b/ 11.94%. </p>\n<p>c/ 11.54%. </p>\n<p>d/ 12.26%.</p>"
+    },
+    {
+      "id": "tn1_0063",
+      "index": 1078,
+      "title": "Question 156:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 156: Bob bought a 20-year bond for $861.10. The coupon interest rate is 8% and coupon pays semiannually. What is the yield to maturity on this bond?",
+      "text": "Question 156: Bob bought a 20-year bond for $861.10. The coupon interest rate is 8% and coupon pays semiannually. What is the yield to maturity on this bond?\nA. 6.334%\nB. 9.586%\nC. 8.245%\nD. 9.334%",
+      "options": [
+        "6.334%",
+        "9.586%",
+        "8.245%",
+        "9.334%"
+      ],
+      "answerKey": "d",
+      "answerIndex": 3,
+      "frontHtml": "<p>Question 156: Bob bought a 20-year bond for $861.10. The coupon interest rate is 8% and coupon pays semiannually. What is the yield to maturity on this bond?</p>",
+      "originalHtml": "<p>Question 156: Bob bought a 20-year bond for $861.10. The coupon interest rate is 8% and coupon pays semiannually. What is the yield to maturity on this bond?</p>\n<p>a/ 6.334% </p>\n<p>b/ 9.586% </p>\n<p>c/ 8.245% </p>\n<p>d/ 9.334%</p>"
+    },
+    {
+      "id": "tn1_0064",
+      "index": 1079,
+      "title": "Question 157:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 157: Bond analysts might be more interested in a bond's yield to call if",
+      "text": "Question 157: Bond analysts might be more interested in a bond's yield to call if\nA. interest rates are expected to fall.\nB. the firm has called some of its bonds in the past.\nC. the investor only plans to hold the bond until its first call date.\nD. interest rates are expected to rise.",
+      "options": [
+        "interest rates are expected to fall.",
+        "the firm has called some of its bonds in the past.",
+        "the investor only plans to hold the bond until its first call date.",
+        "interest rates are expected to rise."
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 157: Bond analysts might be more interested in a bond&#x27;s yield to call if</p>",
+      "originalHtml": "<p>Question 157: Bond analysts might be more interested in a bond&#x27;s yield to call if</p>\n<p>a/ interest rates are expected to fall. </p>\n<p>b/ the firm has called some of its bonds in the past. </p>\n<p>c/ the investor only plans to hold the bond until its first call date. </p>\n<p>d/ interest rates are expected to rise.</p>"
+    },
+    {
+      "id": "tn1_0065",
+      "index": 1080,
+      "title": "Question 161:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 161: The term structure of interest rates",
+      "text": "Question 161: The term structure of interest rates\nA. Represents the variation in yields for securities differing in maturities.\nB. Always results in an upward sloping yield curve.\nC. Usually results in a flat yield curve.\nD. Usually results in a downward sloping yield curve.",
+      "options": [
+        "Represents the variation in yields for securities differing in maturities.",
+        "Always results in an upward sloping yield curve.",
+        "Usually results in a flat yield curve.",
+        "Usually results in a downward sloping yield curve."
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 161: The term structure of interest rates</p>",
+      "originalHtml": "<p>Question 161: The term structure of interest rates</p>\n<p>a/ Represents the variation in yields for securities differing in maturities. </p>\n<p>b/ Always results in an upward sloping yield curve. </p>\n<p>c/ Usually results in a flat yield curve. </p>\n<p>d/ Usually results in a downward sloping yield curve.</p>"
+    },
+    {
+      "id": "tn1_0066",
+      "index": 1081,
+      "title": "Question 162:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 162: According to the expectations hypothesis, an upward sloping yield curve implies that",
+      "text": "Question 162: According to the expectations hypothesis, an upward sloping yield curve implies that\nA. interest rates are expected to decrease in the future.\nB. interest rates are expected to increase in the future.\nC. interest rates are expected to remain stable in the future.\nD. interest rates are expected to decline first, then increase.",
+      "options": [
+        "interest rates are expected to decrease in the future.",
+        "interest rates are expected to increase in the future.",
+        "interest rates are expected to remain stable in the future.",
+        "interest rates are expected to decline first, then increase."
+      ],
+      "answerKey": "b",
+      "answerIndex": 1,
+      "frontHtml": "<p>Question 162: According to the expectations hypothesis, an upward sloping yield curve implies that</p>",
+      "originalHtml": "<p>Question 162: According to the expectations hypothesis, an upward sloping yield curve implies that</p>\n<p>a/ interest rates are expected to decrease in the future. </p>\n<p>b/ interest rates are expected to increase in the future. </p>\n<p>c/ interest rates are expected to remain stable in the future. </p>\n<p>d/ interest rates are expected to decline first, then increase.</p>"
+    },
+    {
+      "id": "tn1_0067",
+      "index": 1082,
+      "title": "Question 163:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 163: The risk structure of interest rates refers to",
+      "text": "Question 163: The risk structure of interest rates refers to\nA. The relationship among the interest rates of bonds with the same maturities.\nB. The relationship among the interest rates of bonds with different maturities.\nC. The relationship among the interest rates of bonds from the same issuer but different maturities.",
+      "options": [
+        "The relationship among the interest rates of bonds with the same maturities.",
+        "The relationship among the interest rates of bonds with different maturities.",
+        "The relationship among the interest rates of bonds from the same issuer but different maturities."
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 163: The risk structure of interest rates refers to</p>",
+      "originalHtml": "<p>Question 163: The risk structure of interest rates refers to</p>\n<p>a/ The relationship among the interest rates of bonds with the same maturities. </p>\n<p>b/ The relationship among the interest rates of bonds with different maturities. </p>\n<p>c/ The relationship among the interest rates of bonds from the same issuer but different maturities.</p>"
+    },
+    {
+      "id": "tn1_0068",
+      "index": 1083,
+      "title": "Question 158:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 158: You purchased an annual interest coupon bond one year ago with five years remaining to maturity at the time of purchase. The coupon interest rate is 7% and par value is $1,000. At the time you purchased the bond, the yield to maturity was 9%. If you sold the bond after receiving the first interest payment and the bond's yield to maturity had changed to 10%, you annual total rate of return on holding the bond for that year would have been",
+      "text": "Question 158: You purchased an annual interest coupon bond one year ago with five years remaining to maturity at the time of purchase. The coupon interest rate is 7% and par value is $1,000. At the time you purchased the bond, the yield to maturity was 9%. If you sold the bond after receiving the first interest payment and the bond's yield to maturity had changed to 10%, you annual total rate of return on holding the bond for that year would have been\nA. 4.71%.\nB. 6.43%.\nC. 5.71%.\nD. 7.00%.",
+      "options": [
+        "4.71%.",
+        "6.43%.",
+        "5.71%.",
+        "7.00%."
+      ],
+      "answerKey": "c",
+      "answerIndex": 2,
+      "frontHtml": "<p>Question 158: You purchased an annual interest coupon bond one year ago with five years remaining to maturity at the time of purchase. The coupon interest rate is 7% and par value is $1,000. At the time you purchased the bond, the yield to maturity was 9%. If you sold the bond after receiving the first interest payment and the bond&#x27;s yield to maturity had changed to 10%, you annual total rate of return on holding the bond for that year would have been</p>",
+      "originalHtml": "<p>Question 158: You purchased an annual interest coupon bond one year ago with five years remaining to maturity at the time of purchase. The coupon interest rate is 7% and par value is $1,000. At the time you purchased the bond, the yield to maturity was 9%. If you sold the bond after receiving the first interest payment and the bond&#x27;s yield to maturity had changed to 10%, you annual total rate of return on holding the bond for that year would have been</p>\n<p>a/ 4.71%. </p>\n<p>b/ 6.43%. </p>\n<p>c/ 5.71%. </p>\n<p>d/ 7.00%.</p>"
+    },
+    {
+      "id": "tn1_0069",
+      "index": 1084,
+      "title": "Question 159:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 159: When the interest rates decrease from 8 to 6 percent, which bond would you prefer to have been holding?",
+      "text": "Question 159: When the interest rates decrease from 8 to 6 percent, which bond would you prefer to have been holding?\nA. A bond with twenty years to maturity\nB. A bond with five years to maturity\nC. A bond with ten years to maturity\nD. A bond with one year to maturity",
+      "options": [
+        "A bond with twenty years to maturity",
+        "A bond with five years to maturity",
+        "A bond with ten years to maturity",
+        "A bond with one year to maturity"
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 159: When the interest rates decrease from 8 to 6 percent, which bond would you prefer to have been holding?</p>",
+      "originalHtml": "<p>Question 159: When the interest rates decrease from 8 to 6 percent, which bond would you prefer to have been holding?</p>\n<p>a/ A bond with twenty years to maturity </p>\n<p>b/ A bond with five years to maturity </p>\n<p>c/ A bond with ten years to maturity </p>\n<p>d/ A bond with one year to maturity</p>"
+    },
+    {
+      "id": "tn1_0070",
+      "index": 1085,
+      "title": "Question 160:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 160: Both bond A and B presently are selling at their par value of $1,000. Each pays interest of $100 annually. Bond A will mature in three years, while bond B will mature in six years. If the yields to maturity on the two bonds change from 13% to 11%,",
+      "text": "Question 160: Both bond A and B presently are selling at their par value of $1,000. Each pays interest of $100 annually. Bond A will mature in three years, while bond B will mature in six years. If the yields to maturity on the two bonds change from 13% to 11%,\nA. both bonds will increase in value, but bond B will increase more than bond A.\nB. both bonds will increase in value, but bond A will increase more than bond B.\nC. both bonds will decrease in value, but bond A will decrease more than bond B.\nD. both bonds will decrease in value, but bond B will decrease more than bond A.",
+      "options": [
+        "both bonds will increase in value, but bond B will increase more than bond A.",
+        "both bonds will increase in value, but bond A will increase more than bond B.",
+        "both bonds will decrease in value, but bond A will decrease more than bond B.",
+        "both bonds will decrease in value, but bond B will decrease more than bond A."
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 160: Both bond A and B presently are selling at their par value of $1,000. Each pays interest of $100 annually. Bond A will mature in three years, while bond B will mature in six years. If the yields to maturity on the two bonds change from 13% to 11%,</p>",
+      "originalHtml": "<p>Question 160: Both bond A and B presently are selling at their par value of $1,000. Each pays interest of $100 annually. Bond A will mature in three years, while bond B will mature in six years. If the yields to maturity on the two bonds change from 13% to 11%,</p>\n<p>a/ both bonds will increase in value, but bond B will increase more than bond A. </p>\n<p>b/ both bonds will increase in value, but bond A will increase more than bond B. </p>\n<p>c/ both bonds will decrease in value, but bond A will decrease more than bond B. </p>\n<p>d/ both bonds will decrease in value, but bond B will decrease more than bond A.</p>"
+    },
+    {
+      "id": "tn1_0071",
+      "index": 1086,
+      "title": "Question 164:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 164: Which factors explain the risk structure of interest rates:",
+      "text": "Question 164: Which factors explain the risk structure of interest rates:\nA. liquidity, default risk, and the income tax treatment of a security.\nB. maturity, default risk, and the income tax treatment of a security.\nC. maturity, liquidity, and the income tax treatment of a security.\nD. maturity, default risk, and the liquidity of a security.",
+      "options": [
+        "liquidity, default risk, and the income tax treatment of a security.",
+        "maturity, default risk, and the income tax treatment of a security.",
+        "maturity, liquidity, and the income tax treatment of a security.",
+        "maturity, default risk, and the liquidity of a security."
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 164: Which factors explain the risk structure of interest rates:</p>",
+      "originalHtml": "<p>Question 164: Which factors explain the risk structure of interest rates:</p>\n<p>a/ liquidity, default risk, and the income tax treatment of a security. </p>\n<p>b/ maturity, default risk, and the income tax treatment of a security. </p>\n<p>c/ maturity, liquidity, and the income tax treatment of a security. </p>\n<p>d/ maturity, default risk, and the liquidity of a security.</p>"
+    },
+    {
+      "id": "tn1_0072",
+      "index": 1087,
+      "title": "Question 165:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 165: When yield curves are flat,",
+      "text": "Question 165: When yield curves are flat,\nA. short-term interest rates are above long-term interest rates.\nB. long-term interest rates are above short-term interest rates.\nC. short-term interest rates are equal to long-term interest rates.\nD. medium-term interest rates are above both short-term and long-term interest rates.",
+      "options": [
+        "short-term interest rates are above long-term interest rates.",
+        "long-term interest rates are above short-term interest rates.",
+        "short-term interest rates are equal to long-term interest rates.",
+        "medium-term interest rates are above both short-term and long-term interest rates."
+      ],
+      "answerKey": "c",
+      "answerIndex": 2,
+      "frontHtml": "<p>Question 165: When yield curves are flat,</p>",
+      "originalHtml": "<p>Question 165: When yield curves are flat,</p>\n<p>a/ short-term interest rates are above long-term interest rates. </p>\n<p>b/ long-term interest rates are above short-term interest rates. </p>\n<p>c/ short-term interest rates are equal to long-term interest rates. </p>\n<p>d/ medium-term interest rates are above both short-term and long-term interest rates.</p>"
+    },
+    {
+      "id": "tn1_0073",
+      "index": 1088,
+      "title": "Question 166:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 166: When long-term rates are below short-term rates, the yield curve is said to be:",
+      "text": "Question 166: When long-term rates are below short-term rates, the yield curve is said to be:\nA. Downward sloping.\nB. Upward sloping.\nC. U-shaped.\nD. Flat.",
+      "options": [
+        "Downward sloping.",
+        "Upward sloping.",
+        "U-shaped.",
+        "Flat."
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 166: When long-term rates are below short-term rates, the yield curve is said to be:</p>",
+      "originalHtml": "<p>Question 166: When long-term rates are below short-term rates, the yield curve is said to be:</p>\n<p>a/ Downward sloping. </p>\n<p>b/ Upward sloping. </p>\n<p>c/ U-shaped. </p>\n<p>d/ Flat.</p>"
+    },
+    {
+      "id": "tn1_0074",
+      "index": 1089,
+      "title": "Question 173:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 173: Which factors including in the nominal rates reflected in the term structure (or in its graphical representation, the yield curve) Except:",
+      "text": "Question 173: Which factors including in the nominal rates reflected in the term structure (or in its graphical representation, the yield curve) Except:\nA. the basic interest rate\nB. the real rate of interest\nC. an inflation premium\nD. an interest rate risk premium",
+      "options": [
+        "the basic interest rate",
+        "the real rate of interest",
+        "an inflation premium",
+        "an interest rate risk premium"
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 173: Which factors including in the nominal rates reflected in the term structure (or in its graphical representation, the yield curve) Except:</p>",
+      "originalHtml": "<p>Question 173: Which factors including in the nominal rates reflected in the term structure (or in its graphical representation, the yield curve) Except:</p>\n<p>a/ the basic interest rate </p>\n<p>b/ the real rate of interest </p>\n<p>c/ an inflation premium </p>\n<p>d/ an interest rate risk premium</p>"
+    },
+    {
+      "id": "tn1_0075",
+      "index": 1090,
+      "title": "Question 174:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 174: Holding other factors are constant, the duration of a bond is positively correlated with the bond's",
+      "text": "Question 174: Holding other factors are constant, the duration of a bond is positively correlated with the bond's\nA. time to maturity.\nB. coupon rate.\nC. yield to maturity.\nD. interest rate",
+      "options": [
+        "time to maturity.",
+        "coupon rate.",
+        "yield to maturity.",
+        "interest rate"
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 174: Holding other factors are constant, the duration of a bond is positively correlated with the bond&#x27;s</p>",
+      "originalHtml": "<p>Question 174: Holding other factors are constant, the duration of a bond is positively correlated with the bond&#x27;s</p>\n<p>a/ time to maturity. </p>\n<p>b/ coupon rate. </p>\n<p>c/ yield to maturity. </p>\n<p>d/ interest rate</p>"
+    },
+    {
+      "id": "tn1_0076",
+      "index": 1091,
+      "title": "Question 175:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 175: The two components of interest-rate risk are",
+      "text": "Question 175: The two components of interest-rate risk are\nA. price risk and reinvestment risk.\nB. price risk and default risk.\nC. reinvestment risk and systematic risk.\nD. call risk and price risk.",
+      "options": [
+        "price risk and reinvestment risk.",
+        "price risk and default risk.",
+        "reinvestment risk and systematic risk.",
+        "call risk and price risk."
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 175: The two components of interest-rate risk are</p>",
+      "originalHtml": "<p>Question 175: The two components of interest-rate risk are</p>\n<p>a/ price risk and reinvestment risk. </p>\n<p>b/ price risk and default risk. </p>\n<p>c/ reinvestment risk and systematic risk. </p>\n<p>d/ call risk and price risk.</p>"
+    },
+    {
+      "id": "tn1_0077",
+      "index": 1092,
+      "title": "Question 170:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 170: Which of the followings will cause a sharply increasing yield curve?",
+      "text": "Question 170: Which of the followings will cause a sharply increasing yield curve?\nA. Increasing future expected short rates and increasing liquidity premiums\nB. Decreasing future expected short rates and increasing liquidity premiums\nC. Increasing future expected short rates and decreasing liquidity premiums\nD. Increasing future expected short rates and constant liquidity premiums.",
+      "options": [
+        "Increasing future expected short rates and increasing liquidity premiums",
+        "Decreasing future expected short rates and increasing liquidity premiums",
+        "Increasing future expected short rates and decreasing liquidity premiums",
+        "Increasing future expected short rates and constant liquidity premiums."
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 170: Which of the followings will cause a sharply increasing yield curve?</p>",
+      "originalHtml": "<p>Question 170: Which of the followings will cause a sharply increasing yield curve?</p>\n<p>a/ Increasing future expected short rates and increasing liquidity premiums </p>\n<p>b/ Decreasing future expected short rates and increasing liquidity premiums </p>\n<p>c/ Increasing future expected short rates and decreasing liquidity premiums </p>\n<p>d/ Increasing future expected short rates and constant liquidity premiums.</p>"
+    },
+    {
+      "id": "tn1_0078",
+      "index": 1093,
+      "title": "Question 171:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 171: The duration of a 6-year zero-coupon bond is",
+      "text": "Question 171: The duration of a 6-year zero-coupon bond is\nA. equal to 6 .\nB. smaller than 6 .\nC. larger than 6 .\nD. equal to that of a 6-year 10% coupon bond.",
+      "options": [
+        "equal to 6 .",
+        "smaller than 6 .",
+        "larger than 6 .",
+        "equal to that of a 6-year 10% coupon bond."
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 171: The duration of a 6-year zero-coupon bond is</p>",
+      "originalHtml": "<p>Question 171: The duration of a 6-year zero-coupon bond is</p>\n<p>a/ equal to 6 . </p>\n<p>b/ smaller than 6 . </p>\n<p>c/ larger than 6 . </p>\n<p>d/ equal to that of a 6-year 10% coupon bond.</p>"
+    },
+    {
+      "id": "tn1_0079",
+      "index": 1094,
+      "title": "Question 172:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 172: A perpetuity with a yield of 9% has a duration of",
+      "text": "Question 172: A perpetuity with a yield of 9% has a duration of\nA. 12.11 years\nB. 12.11 years.\nC. 10.00 years.\nD. Cannot be determined",
+      "options": [
+        "12.11 years",
+        "12.11 years.",
+        "10.00 years.",
+        "Cannot be determined"
+      ],
+      "answerKey": "b",
+      "answerIndex": 1,
+      "frontHtml": "<p>Question 172: A perpetuity with a yield of 9% has a duration of</p>",
+      "originalHtml": "<p>Question 172: A perpetuity with a yield of 9% has a duration of</p>\n<p>a/ 12.11 years </p>\n<p>b/ 12.11 years. </p>\n<p>c/ 10.00 years. </p>\n<p>d/ Cannot be determined</p>"
+    },
+    {
+      "id": "tn1_0080",
+      "index": 1095,
+      "title": "Question 179:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 179: A 5 -year coupon bond with coupon rate is 8%/year. The similar bond interest rate is 10%. what is the modified duration?",
+      "text": "Question 179: A 5 -year coupon bond with coupon rate is 8%/year. The similar bond interest rate is 10%. what is the modified duration?\nA. 5.25 years.\nB. 5.00 years\nC. 3.89 years\nD. 4.00 years",
+      "options": [
+        "5.25 years.",
+        "5.00 years",
+        "3.89 years",
+        "4.00 years"
+      ],
+      "answerKey": "c",
+      "answerIndex": 2,
+      "frontHtml": "<p>Question 179: A 5 -year coupon bond with coupon rate is 8%/year. The similar bond interest rate is 10%. what is the modified duration?</p>",
+      "originalHtml": "<p>Question 179: A 5 -year coupon bond with coupon rate is 8%/year. The similar bond interest rate is 10%. what is the modified duration?</p>\n<p>a/ 5.25 years. </p>\n<p>b/ 5.00 years </p>\n<p>c/ 3.89 years </p>\n<p>d/ 4.00 years</p>"
+    },
+    {
+      "id": "tn1_0081",
+      "index": 1096,
+      "title": "Question 180:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 180: Which statement is correct for the duration of a coupon bond",
+      "text": "Question 180: Which statement is correct for the duration of a coupon bond\nA. does change after the bond is issued.\nB. can accurately predict the price change of the bond for any interest rate change.\nC. will decrease as the yield to maturity decreases.\nD. will be stable for several years.",
+      "options": [
+        "does change after the bond is issued.",
+        "can accurately predict the price change of the bond for any interest rate change.",
+        "will decrease as the yield to maturity decreases.",
+        "will be stable for several years."
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 180: Which statement is correct for the duration of a coupon bond</p>",
+      "originalHtml": "<p>Question 180: Which statement is correct for the duration of a coupon bond</p>\n<p>a/ does change after the bond is issued. </p>\n<p>b/ can accurately predict the price change of the bond for any interest rate change. </p>\n<p>c/ will decrease as the yield to maturity decreases. </p>\n<p>d/ will be stable for several years.</p>"
+    },
+    {
+      "id": "tn1_0082",
+      "index": 1097,
+      "title": "Question 181:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 181: Which of the following two bonds is more price sensitive to changes in interest rates? A par value bond, X, with a 6 -year-to-maturity and a 8% coupon rate. A zero-coupon bond, Y, with a 6 -year-to-maturity and a 8% yield to maturity.",
+      "text": "Question 181: Which of the following two bonds is more price sensitive to changes in interest rates? A par value bond, X, with a 6 -year-to-maturity and a 8% coupon rate. A zero-coupon bond, Y, with a 6 -year-to-maturity and a 8% yield to maturity.\nA. Bond Y because of the longer duration.\nB. Bond X because of the higher yield to maturity.\nC. Bond X because of the longer time to maturity.\nD. Both have the same sensitivity because both have the same yield to maturity.",
+      "options": [
+        "Bond Y because of the longer duration.",
+        "Bond X because of the higher yield to maturity.",
+        "Bond X because of the longer time to maturity.",
+        "Both have the same sensitivity because both have the same yield to maturity."
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 181:<br>Which of the following two bonds is more price sensitive to changes in interest rates?</p>\n<p>A par value bond, X, with a 6 -year-to-maturity and a 8% coupon rate.</p>\n<p>A zero-coupon bond, Y, with a 6 -year-to-maturity and a 8% yield to maturity.</p>",
+      "originalHtml": "<p>Question 181:<br>Which of the following two bonds is more price sensitive to changes in interest rates?</p>\n<p>A par value bond, X, with a 6 -year-to-maturity and a 8% coupon rate.</p>\n<p>A zero-coupon bond, Y, with a 6 -year-to-maturity and a 8% yield to maturity.</p>\n<p>a/ Bond Y because of the longer duration. </p>\n<p>b/ Bond X because of the higher yield to maturity. </p>\n<p>c/ Bond X because of the longer time to maturity. </p>\n<p>d/ Both have the same sensitivity because both have the same yield to maturity.</p>"
+    },
+    {
+      "id": "tn1_0083",
+      "index": 1098,
+      "title": "Question 176:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 176: A 5 -year coupon bond with coupon rate is 8%/year. The similar bond interest rate is 10%. what is the duration?",
+      "text": "Question 176: A 5 -year coupon bond with coupon rate is 8%/year. The similar bond interest rate is 10%. what is the duration?\nA. 3.28 years.\nB. 5.00 years\nC. 3.89 years\nD. 4.28 years",
+      "options": [
+        "3.28 years.",
+        "5.00 years",
+        "3.89 years",
+        "4.28 years"
+      ],
+      "answerKey": "d",
+      "answerIndex": 3,
+      "frontHtml": "<p>Question 176: A 5 -year coupon bond with coupon rate is 8%/year. The similar bond interest rate is 10%. what is the duration?</p>",
+      "originalHtml": "<p>Question 176: A 5 -year coupon bond with coupon rate is 8%/year. The similar bond interest rate is 10%. what is the duration?</p>\n<p>a/ 3.28 years. </p>\n<p>b/ 5.00 years </p>\n<p>c/ 3.89 years </p>\n<p>d/ 4.28 years</p>"
+    },
+    {
+      "id": "tn1_0084",
+      "index": 1099,
+      "title": "Question 177:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 177: Ceteris paribus, the duration of a bond is negatively correlated with the bond's",
+      "text": "Question 177: Ceteris paribus, the duration of a bond is negatively correlated with the bond's\nA. coupon rate and yield to maturity.\nB. time to maturity.\nC. coupon rate.\nD. yield to maturity.",
+      "options": [
+        "coupon rate and yield to maturity.",
+        "time to maturity.",
+        "coupon rate.",
+        "yield to maturity."
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 177: Ceteris paribus, the duration of a bond is negatively correlated with the bond&#x27;s</p>",
+      "originalHtml": "<p>Question 177: Ceteris paribus, the duration of a bond is negatively correlated with the bond&#x27;s</p>\n<p>a/ coupon rate and yield to maturity. </p>\n<p>b/ time to maturity. </p>\n<p>c/ coupon rate. </p>\n<p>d/ yield to maturity.</p>"
+    },
+    {
+      "id": "tn1_0085",
+      "index": 1100,
+      "title": "Question 178:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 178: Holding other factors constant, the interest-rate risk of a coupon bond is higher when the bond's",
+      "text": "Question 178: Holding other factors constant, the interest-rate risk of a coupon bond is higher when the bond's\nA. yield to maturity is lower.\nB. term to maturity is lower.\nC. coupon rate is higher.\nD. current yield is higher.",
+      "options": [
+        "yield to maturity is lower.",
+        "term to maturity is lower.",
+        "coupon rate is higher.",
+        "current yield is higher."
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 178: Holding other factors constant, the interest-rate risk of a coupon bond is higher when the bond&#x27;s</p>",
+      "originalHtml": "<p>Question 178: Holding other factors constant, the interest-rate risk of a coupon bond is higher when the bond&#x27;s</p>\n<p>a/ yield to maturity is lower. </p>\n<p>b/ term to maturity is lower. </p>\n<p>c/ coupon rate is higher. </p>\n<p>d/ current yield is higher.</p>"
+    },
+    {
+      "id": "tn1_0086",
+      "index": 1101,
+      "title": "Question 185:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 185: All else equal, when interest rates rise, the duration of a coupon bond",
+      "text": "Question 185: All else equal, when interest rates rise, the duration of a coupon bond\nA. falls\nB. increases\nC. does not change\nD. cannot determine",
+      "options": [
+        "falls",
+        "increases",
+        "does not change",
+        "cannot determine"
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 185: All else equal, when interest rates rise, the duration of a coupon bond</p>",
+      "originalHtml": "<p>Question 185: All else equal, when interest rates rise, the duration of a coupon bond</p>\n<p>a/ falls </p>\n<p>b/ increases </p>\n<p>c/ does not change </p>\n<p>d/ cannot determine</p>"
+    },
+    {
+      "id": "tn1_0087",
+      "index": 1102,
+      "title": "Question 186:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 186: The duration of a par value bond with a coupon rate of 7% (paid annually) and a remaining time to maturity of 5 years is",
+      "text": "Question 186: The duration of a par value bond with a coupon rate of 7% (paid annually) and a remaining time to maturity of 5 years is\nA. 4.387 years.\nB. 5 years.\nC. 4.10 years.\nD. Cannot determine",
+      "options": [
+        "4.387 years.",
+        "5 years.",
+        "4.10 years.",
+        "Cannot determine"
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 186: The duration of a par value bond with a coupon rate of 7% (paid annually) and a remaining time to maturity of 5 years is</p>",
+      "originalHtml": "<p>Question 186: The duration of a par value bond with a coupon rate of 7% (paid annually) and a remaining time to maturity of 5 years is</p>\n<p>a/ 4.387 years. </p>\n<p>b/ 5 years. </p>\n<p>c/ 4.10 years. </p>\n<p>d/ Cannot determine</p>"
+    },
+    {
+      "id": "tn1_0088",
+      "index": 1103,
+      "title": "Question 187:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 187: The modified duration of a seven-year par value bond has a coupon rate of 8% (paid annually) is",
+      "text": "Question 187: The modified duration of a seven-year par value bond has a coupon rate of 8% (paid annually) is\nA. 5.68 years.\nB. 7 years.\nC. 5.20 years.\nD. 5.87 years.",
+      "options": [
+        "5.68 years.",
+        "7 years.",
+        "5.20 years.",
+        "5.87 years."
+      ],
+      "answerKey": "c",
+      "answerIndex": 2,
+      "frontHtml": "<p>Question 187: The modified duration of a seven-year par value bond has a coupon rate of 8% (paid annually) is</p>",
+      "originalHtml": "<p>Question 187: The modified duration of a seven-year par value bond has a coupon rate of 8% (paid annually) is</p>\n<p>a/ 5.68 years. </p>\n<p>b/ 7 years. </p>\n<p>c/ 5.20 years. </p>\n<p>d/ 5.87 years.</p>"
+    },
+    {
+      "id": "tn1_0089",
+      "index": 1104,
+      "title": "Question 188:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 188: The bond has par value with a modified duration of 5. Which one of the following statements regarding the bond is true?",
+      "text": "Question 188: The bond has par value with a modified duration of 5. Which one of the following statements regarding the bond is true?\nA. If the market yield increases by 1%, the bond's price will decrease by $50.\nB. If the market yield increases by 1%, the bond's price will increase by $60.\nC. If the market yield increases by 1%, the bond's price will increase by $50.",
+      "options": [
+        "If the market yield increases by 1%, the bond's price will decrease by $50.",
+        "If the market yield increases by 1%, the bond's price will increase by $60.",
+        "If the market yield increases by 1%, the bond's price will increase by $50."
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 188: The bond has par value with a modified duration of 5. Which one of the following statements regarding the bond is true?</p>",
+      "originalHtml": "<p>Question 188: The bond has par value with a modified duration of 5. Which one of the following statements regarding the bond is true?</p>\n<p>a/ If the market yield increases by 1%, the bond&#x27;s price will decrease by $50. </p>\n<p>b/ If the market yield increases by 1%, the bond&#x27;s price will increase by $60. </p>\n<p>d/ If the market yield increases by 1%, the bond&#x27;s price will increase by $50.</p>"
+    },
+    {
+      "id": "tn1_0090",
+      "index": 1105,
+      "title": "Question 189:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 189: Which one of the following par value 11% coupon bonds experiences a price change of $20 when the market yield changes by 50 basis points?",
+      "text": "Question 189: Which one of the following par value 11% coupon bonds experiences a price change of $20 when the market yield changes by 50 basis points?\nA. The bond with a duration of 3.36 years\nB. The bond with a duration of 5.15 years\nC. The bond with a duration of 4.44 years\nD. The bond with a duration of 2.5 years",
+      "options": [
+        "The bond with a duration of 3.36 years",
+        "The bond with a duration of 5.15 years",
+        "The bond with a duration of 4.44 years",
+        "The bond with a duration of 2.5 years"
+      ],
+      "answerKey": "c",
+      "answerIndex": 2,
+      "frontHtml": "<p>Question 189: Which one of the following par value 11% coupon bonds experiences a price change of $20 when the market yield changes by 50 basis points?</p>",
+      "originalHtml": "<p>Question 189: Which one of the following par value 11% coupon bonds experiences a price change of $20 when the market yield changes by 50 basis points?</p>\n<p>a/ The bond with a duration of 3.36 years </p>\n<p>b/ The bond with a duration of 5.15 years </p>\n<p>c/ The bond with a duration of 4.44 years </p>\n<p>d/ The bond with a duration of 2.5 years</p>"
+    },
+    {
+      "id": "tn1_0091",
+      "index": 1106,
+      "title": "Question 190:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 190: The bond sells at par with modified duration of 9.6 years and convexity of 220. The interest rate decrease 2% in yield. What would be the percentage price change according to the duration-with-convexity rule?",
+      "text": "Question 190: The bond sells at par with modified duration of 9.6 years and convexity of 220. The interest rate decrease 2% in yield. What would be the percentage price change according to the duration-with-convexity rule?\nA. Increase 23.6%\nB. Decrease 23.6%\nC. Increase 4.00%\nD. Cannot determined",
+      "options": [
+        "Increase 23.6%",
+        "Decrease 23.6%",
+        "Increase 4.00%",
+        "Cannot determined"
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 190: The bond sells at par with modified duration of 9.6 years and convexity of 220. The interest rate decrease 2% in yield. What would be the percentage price change according to the duration-with-convexity rule?</p>",
+      "originalHtml": "<p>Question 190: The bond sells at par with modified duration of 9.6 years and convexity of 220. The interest rate decrease 2% in yield. What would be the percentage price change according to the duration-with-convexity rule?</p>\n<p>a/ Increase 23.6% </p>\n<p>b/ Decrease 23.6% </p>\n<p>c/ Increase 4.00% </p>\n<p>d/ Cannot determined</p>"
+    },
+    {
+      "id": "tn1_0092",
+      "index": 1107,
+      "title": "Question 191:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 191: Hedge funds are suitable as an investor's sole investment vehicle. II) should only be added to a portfolio that is already well-diversified. III) pose performance evaluation issues due to nonlinear factor exposures. IV) have betas that are normally higher in the down market than in the up market. V) have symmetrical betas.",
+      "text": "Question 191: Hedge funds are suitable as an investor's sole investment vehicle. II) should only be added to a portfolio that is already well-diversified. III) pose performance evaluation issues due to nonlinear factor exposures. IV) have betas that are normally higher in the down market than in the up market. V) have symmetrical betas.\nA. II, III, and IV\nB. II and V\nC. I, III, and IV\nD. I only",
+      "options": [
+        "II, III, and IV",
+        "II and V",
+        "I, III, and IV",
+        "I only"
+      ],
+      "answerKey": "c",
+      "answerIndex": 2,
+      "frontHtml": "<p>Question 191:<br>Hedge funds</p>\n<p>are suitable as an investor&#x27;s sole investment vehicle. II) should only be added to a portfolio that is already well-diversified. III) pose performance evaluation issues due to nonlinear factor exposures. IV) have betas that are normally higher in the down market than in the up market. V) have symmetrical betas.</p>",
+      "originalHtml": "<p>Question 191:<br>Hedge funds</p>\n<p>are suitable as an investor&#x27;s sole investment vehicle. II) should only be added to a portfolio that is already well-diversified. III) pose performance evaluation issues due to nonlinear factor exposures. IV) have betas that are normally higher in the down market than in the up market. V) have symmetrical betas.</p>\n<p>a) II, III, and IV </p>\n<p>b) II and V </p>\n<p>c) I, III, and IV </p>\n<p>d) I only</p>"
+    },
+    {
+      "id": "tn1_0093",
+      "index": 1108,
+      "title": "Question 192:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 192: Suppose two investment portfolios have the same average return, the same standard deviation of returns, but portfolio b has a higher beta than portfolio A. According to the Treynor measure, the performance of portfolio A",
+      "text": "Question 192: Suppose two investment portfolios have the same average return, the same standard deviation of returns, but portfolio b has a higher beta than portfolio A. According to the Treynor measure, the performance of portfolio A\nA. is better than the performance of portfolio B.\nB. is the same as the performance of portfolio B.\nC. is poorer than the performance of portfolio B.\nD. cannot be measured as there are no data on the alpha of the portfolio.",
+      "options": [
+        "is better than the performance of portfolio B.",
+        "is the same as the performance of portfolio B.",
+        "is poorer than the performance of portfolio B.",
+        "cannot be measured as there are no data on the alpha of the portfolio."
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 192: Suppose two investment portfolios have the same average return, the same standard deviation of returns, but portfolio b has a higher beta than portfolio A. According to the Treynor measure, the performance of portfolio A</p>",
+      "originalHtml": "<p>Question 192: Suppose two investment portfolios have the same average return, the same standard deviation of returns, but portfolio b has a higher beta than portfolio A. According to the Treynor measure, the performance of portfolio A</p>\n<p>a) is better than the performance of portfolio B. </p>\n<p>b) is the same as the performance of portfolio B. </p>\n<p>c) is poorer than the performance of portfolio B. </p>\n<p>d) cannot be measured as there are no data on the alpha of the portfolio.</p>"
+    },
+    {
+      "id": "tn1_0094",
+      "index": 1109,
+      "title": "Question 195:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 195: An investor considers two portfolios have the same average return, the same standard deviation of returns, but ABC Fund has a higher beta than XYZ Fund. According to the Sharpe measure, the performance of XYZ Fund",
+      "text": "Question 195: An investor considers two portfolios have the same average return, the same standard deviation of returns, but ABC Fund has a higher beta than XYZ Fund. According to the Sharpe measure, the performance of XYZ Fund\nA. is not good as the performance of ABC Fund.\nB. is better than the performance of ABC Fund.\nC. is the same than the performance of ABC Fund.\nD. cannot be measured as there are no data on the alpha of the portfolio.",
+      "options": [
+        "is not good as the performance of ABC Fund.",
+        "is better than the performance of ABC Fund.",
+        "is the same than the performance of ABC Fund.",
+        "cannot be measured as there are no data on the alpha of the portfolio."
+      ],
+      "answerKey": "c",
+      "answerIndex": 2,
+      "frontHtml": "<p>Question 195: An investor considers two portfolios have the same average return, the same standard deviation of returns, but ABC Fund has a higher beta than XYZ Fund. According to the Sharpe measure, the performance of XYZ Fund</p>",
+      "originalHtml": "<p>Question 195: An investor considers two portfolios have the same average return, the same standard deviation of returns, but ABC Fund has a higher beta than XYZ Fund. According to the Sharpe measure, the performance of XYZ Fund</p>\n<p>a) is not good as the performance of ABC Fund. </p>\n<p>b) is better than the performance of ABC Fund. </p>\n<p>c) is the same than the performance of ABC Fund. </p>\n<p>d) cannot be measured as there are no data on the alpha of the portfolio.</p>"
+    },
+    {
+      "id": "tn1_0095",
+      "index": 1110,
+      "title": "Question 196:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 196: You want to evaluate three mutual funds using the Sharpe measure for performance evaluation. The risk-free return during the sample period is 5%. The average returns, standard deviations, and betas for the three funds are given below Average Standard deviation Fund A 20% 22% Fund B 18% 21% Fund C 12% 14% The fund with the highest Sharpe measure is",
+      "text": "Question 196: You want to evaluate three mutual funds using the Sharpe measure for performance evaluation. The risk-free return during the sample period is 5%. The average returns, standard deviations, and betas for the three funds are given below Average Standard deviation Fund A 20% 22% Fund B 18% 21% Fund C 12% 14% The fund with the highest Sharpe measure is\nA. Fund C.\nB. Fund B.\nC. Fund A.\nD. Funds A and B (tied for highest).",
+      "options": [
+        "Fund C.",
+        "Fund B.",
+        "Fund A.",
+        "Funds A and B (tied for highest)."
+      ],
+      "answerKey": "c",
+      "answerIndex": 2,
+      "frontHtml": "<p>Question 196:<br>You want to evaluate three mutual funds using the Sharpe measure for performance evaluation. The risk-free return during the sample period is 5%. The average returns, standard deviations, and betas for the three funds are given below</p>\n<p><span class=\"b\">Average</span></p>\n<p><span class=\"b\">Standard deviation</span></p>\n<p>Fund A</p>\n<p>20%</p>\n<p>22%</p>\n<p>Fund B</p>\n<p>18%</p>\n<p>21%</p>\n<p>Fund C</p>\n<p>12%</p>\n<p>14%</p>\n<p>The fund with the highest Sharpe measure is</p>",
+      "originalHtml": "<p>Question 196:<br>You want to evaluate three mutual funds using the Sharpe measure for performance evaluation. The risk-free return during the sample period is 5%. The average returns, standard deviations, and betas for the three funds are given below</p>\n<p><span class=\"b\">Average</span></p>\n<p><span class=\"b\">Standard deviation</span></p>\n<p>Fund A</p>\n<p>20%</p>\n<p>22%</p>\n<p>Fund B</p>\n<p>18%</p>\n<p>21%</p>\n<p>Fund C</p>\n<p>12%</p>\n<p>14%</p>\n<p>The fund with the highest Sharpe measure is</p>\n<p>a) Fund C. </p>\n<p>b) Fund B. </p>\n<p>c) Fund A. </p>\n<p>d) Funds A and B (tied for highest).</p>"
+    },
+    {
+      "id": "tn1_0096",
+      "index": 1111,
+      "title": "Question 198:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 198: TTom is considering between two stock (stock A and stock B) with the following information: Average Standard deviation Stock A 22.50% 23.79% Stock B 15.01% 16.84% Which stock should Tom choose according to Sharpe measure?",
+      "text": "Question 198: TTom is considering between two stock (stock A and stock B) with the following information: Average Standard deviation Stock A 22.50% 23.79% Stock B 15.01% 16.84% Which stock should Tom choose according to Sharpe measure?\nA. cannot be measured as there are no data on risk-free rate\nB. Stock B.\nC. cannot be measured as there are no data on the alpha of two stocks\nD. Stock A.",
+      "options": [
+        "cannot be measured as there are no data on risk-free rate",
+        "Stock B.",
+        "cannot be measured as there are no data on the alpha of two stocks",
+        "Stock A."
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 198:<br>TTom is considering between two stock (stock A and stock B) with the following information:</p>\n<p><span class=\"b\">Average</span></p>\n<p><span class=\"b\">Standard deviation</span></p>\n<p>Stock A</p>\n<p>22.50%</p>\n<p>23.79%</p>\n<p>Stock B</p>\n<p>15.01%</p>\n<p>16.84%</p>\n<p>Which stock should Tom choose according to Sharpe measure?</p>",
+      "originalHtml": "<p>Question 198:<br>TTom is considering between two stock (stock A and stock B) with the following information:</p>\n<p><span class=\"b\">Average</span></p>\n<p><span class=\"b\">Standard deviation</span></p>\n<p>Stock A</p>\n<p>22.50%</p>\n<p>23.79%</p>\n<p>Stock B</p>\n<p>15.01%</p>\n<p>16.84%</p>\n<p>Which stock should Tom choose according to Sharpe measure?</p>\n<p>a/ cannot be measured as there are no data on risk-free rate </p>\n<p>b/ Stock B. </p>\n<p>c/ cannot be measured as there are no data on the alpha of two stocks </p>\n<p>d/ Stock A.</p>"
+    },
+    {
+      "id": "tn1_0097",
+      "index": 1112,
+      "title": "Question 193:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 193: Consider two portfolios with the same average returns and standard deviations, but portfolio A has a higher beta than portfolio B. According to the Sharpe measure, the performance of portfolio A",
+      "text": "Question 193: Consider two portfolios with the same average returns and standard deviations, but portfolio A has a higher beta than portfolio B. According to the Sharpe measure, the performance of portfolio A\nA. is the same as the performance of portfolio B.\nB. is better than the performance of portfolio B.\nC. is poorer than the performance of portfolio B.\nD. cannot be measured as there are no data on the alpha of the portfolio.",
+      "options": [
+        "is the same as the performance of portfolio B.",
+        "is better than the performance of portfolio B.",
+        "is poorer than the performance of portfolio B.",
+        "cannot be measured as there are no data on the alpha of the portfolio."
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 193: Consider two portfolios with the same average returns and standard deviations, but portfolio A has a higher beta than portfolio B. According to the Sharpe measure, the performance of portfolio A</p>",
+      "originalHtml": "<p>Question 193: Consider two portfolios with the same average returns and standard deviations, but portfolio A has a higher beta than portfolio B. According to the Sharpe measure, the performance of portfolio A</p>\n<p>a/ is the same as the performance of portfolio B. </p>\n<p>b/ is better than the performance of portfolio B. </p>\n<p>c/ is poorer than the performance of portfolio B. </p>\n<p>d/ cannot be measured as there are no data on the alpha of the portfolio.</p>"
+    },
+    {
+      "id": "tn1_0098",
+      "index": 1113,
+      "title": "Question 194:",
+      "context": "TN1",
+      "type": "choice",
+      "question": "Question 194: Which can be considered as the reason why risk-adjusted mutual fund performance measures have decreased in popularity",
+      "text": "Question 194: Which can be considered as the reason why risk-adjusted mutual fund performance measures have decreased in popularity\nA. It is extremely difficult for portfolio managers to outperform the market in nearly efficient markets, and the measures frequently result in negative performance results for portfolio managers.\nB. the measures usually result in negative performance results for the portfolio managers.\nC. the measures have become obsolete due to the high rates of return generated by mutual funds.\nD. It is extremely difficult for portfolio managers to outperform the market in nearly efficient markets.",
+      "options": [
+        "It is extremely difficult for portfolio managers to outperform the market in nearly efficient markets, and the measures frequently result in negative performance results for portfolio managers.",
+        "the measures usually result in negative performance results for the portfolio managers.",
+        "the measures have become obsolete due to the high rates of return generated by mutual funds.",
+        "It is extremely difficult for portfolio managers to outperform the market in nearly efficient markets."
+      ],
+      "answerKey": "a",
+      "answerIndex": 0,
+      "frontHtml": "<p>Question 194: Which can be considered as the reason why risk-adjusted mutual fund performance measures have decreased in popularity</p>",
+      "originalHtml": "<p>Question 194: Which can be considered as the reason why risk-adjusted mutual fund performance measures have decreased in popularity</p>\n<p>a/ It is extremely difficult for portfolio managers to outperform the market in nearly efficient markets, and the measures frequently result in negative performance results for portfolio managers. </p>\n<p>b/ the measures usually result in negative performance results for the portfolio managers. </p>\n<p>c/ the measures have become obsolete due to the high rates of return generated by mutual funds. </p>\n<p>d/ It is extremely difficult for portfolio managers to outperform the market in nearly efficient markets.</p>"
     }
   ],
   "sources": [
@@ -11684,6 +13541,7 @@ window.QUIZ_DATA = {
     "d:\\temp\\nhtm2\\TRẮC NGHIỆM_CK (1).docx",
     "d:\\temp\\nhtm2\\testbank rieng.docx",
     "D:\\temp\\nhtm2\\Commercial Banking 3_Giữa kỳ_01.xlsx",
-    "D:\\temp\\nhtm2\\Commercial Banking 3_Giữa kỳ_02.xlsx"
+    "D:\\temp\\nhtm2\\Commercial Banking 3_Giữa kỳ_02.xlsx",
+    "D:\\temp\\dau tu\\TN1_boi_dam_dap_an.docx"
   ]
 };

@@ -17,6 +17,7 @@ NS = {
 }
 REL_NS = {"pr": "http://schemas.openxmlformats.org/package/2006/relationships"}
 ANSWER_KEYS = ["a", "b", "c", "d"]
+INLINE_OPTION_RE = re.compile(r"(?<!\w)([a-dA-D])\s*[/\)]\s*")
 
 
 def qn(prefix, name):
@@ -41,12 +42,93 @@ def normalize_text(value):
 def normalize_option(value):
     text = normalize_text(value)
     text = re.sub(r"^(?:(?:Question|Câu)\s*\d+\s*:)+\s*", "", text, flags=re.IGNORECASE)
-    text = re.sub(r"^[a-dA-D]\s*[\.\)]\s*", "", text).strip()
+    text = re.sub(r"^[a-dA-D]\s*[/\.\)]\s*", "", text).strip()
     return text
 
 
 def normalize_key(value):
     return re.sub(r"\s+", " ", normalize_option(value).lower())
+
+
+def strip_html(value):
+    text = re.sub(r"<br\s*/?>", " ", value or "", flags=re.IGNORECASE)
+    text = re.sub(r"<[^>]+>", "", text)
+    return html.unescape(normalize_text(text))
+
+
+def inline_option_matches(text):
+    return list(INLINE_OPTION_RE.finditer(text or ""))
+
+
+def is_inline_choice_record(record):
+    return len(inline_option_matches(record.get("text", ""))) >= 3
+
+
+def marked_inline_keys(record, *, priority_only=False):
+    keys = []
+    for match in re.finditer(r'<span class="([^"]*)">(.+?)</span>', record.get("html", ""), flags=re.IGNORECASE | re.DOTALL):
+        classes = set(match.group(1).split())
+        target_classes = {"hl", "red"} if priority_only else {"b"}
+        if not (target_classes & classes):
+            continue
+        content = strip_html(match.group(2))
+        option_match = INLINE_OPTION_RE.match(content)
+        if option_match:
+            keys.append(option_match.group(1).lower())
+    return keys
+
+
+def marked_inline_option_texts(record, *, priority_only=False):
+    values = []
+    for match in re.finditer(r'<span class="([^"]*)">(.+?)</span>', record.get("html", ""), flags=re.IGNORECASE | re.DOTALL):
+        classes = set(match.group(1).split())
+        target_classes = {"hl", "red"} if priority_only else {"b"}
+        if not (target_classes & classes):
+            continue
+        content = strip_html(match.group(2))
+        if INLINE_OPTION_RE.match(content):
+            values.append(normalize_key(content))
+    return values
+
+
+def split_inline_choice_record(record):
+    text = record["text"]
+    matches = inline_option_matches(text)
+    if len(matches) < 3:
+        return None
+
+    question_text = normalize_text(text[: matches[0].start()])
+    if not question_text:
+        return None
+
+    marked_keys = marked_inline_keys(record)
+    priority_keys = marked_inline_keys(record, priority_only=True)
+    marked_texts = marked_inline_option_texts(record)
+    priority_texts = marked_inline_option_texts(record, priority_only=True)
+    options = []
+    for index, match in enumerate(matches[:4]):
+        end = matches[index + 1].start() if index + 1 < len(matches) else len(text)
+        key = match.group(1).lower()
+        raw_option = text[match.start() : end]
+        option_key = normalize_key(raw_option)
+        options.append(
+            {
+                "key": key,
+                "text": normalize_option(raw_option),
+                "html": f"<p>{html.escape(raw_option)}</p>",
+                "strong": option_key in marked_texts or (not marked_texts and key in marked_keys),
+                "priority": option_key in priority_texts or (not priority_texts and key in priority_keys),
+            }
+        )
+
+    question = {
+        **record,
+        "text": question_text,
+        "html": f"<p>{html.escape(question_text)}</p>",
+        "strong": False,
+        "priority": False,
+    }
+    return {"question": question, "items": options}
 
 
 def paragraph_style(paragraph):
@@ -258,7 +340,7 @@ def is_question_start(record):
     return bool(
         re.match(r"^(?:câu|question)\s*\d+\s*:", text, flags=re.IGNORECASE)
         or text.endswith("?")
-        or re.match(r"^\d+\.", text)
+        or re.match(r"^\d+\.\s+", text)
     )
 
 
@@ -268,7 +350,14 @@ def is_bare_question_label(record):
 
 def is_option_record(record):
     text = record["text"].strip()
-    return record.get("numFormat") == "lowerLetter" or bool(re.match(r"^[a-dA-D]\s*[\.\)]", text))
+    return record.get("numFormat") == "lowerLetter" or bool(re.match(r"^[a-dA-D]\s*[/\.\)]", text))
+
+
+def append_to_question(question, record):
+    question["text"] = normalize_text(f"{question['text']} {record['text']}")
+    question["html"] = "\n".join([question["html"], record["html"]])
+    question["priority"] = question.get("priority", False) or record.get("priority", False)
+    question["strong"] = question.get("strong", False) or record.get("strong", False)
 
 
 def segments_from_records(records):
@@ -277,6 +366,20 @@ def segments_from_records(records):
     for record in records:
         if current and is_bare_question_label(record):
             continue
+
+        if is_inline_choice_record(record):
+            inline_segment = split_inline_choice_record(record)
+            if inline_segment:
+                if current:
+                    for item in current["items"]:
+                        append_to_question(current["question"], item)
+                    append_to_question(current["question"], inline_segment["question"])
+                    current["items"] = inline_segment["items"]
+                    segments.append(current)
+                    current = None
+                else:
+                    segments.append(inline_segment)
+                continue
 
         if current and is_option_record(record):
             current["items"].append({ **record, "text": normalize_option(record["text"]) })
@@ -362,12 +465,12 @@ def unique_items(items):
 
 
 def answer_index(options):
-    priority = [index for index, option in enumerate(options) if option["priority"]]
-    if len(priority) == 1:
-        return priority[0]
     strong = [index for index, option in enumerate(options) if option["strong"]]
     if len(strong) == 1:
         return strong[0]
+    priority = [index for index, option in enumerate(options) if option["priority"]]
+    if len(priority) == 1:
+        return priority[0]
     return None
 
 
